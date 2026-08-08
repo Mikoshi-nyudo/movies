@@ -1,38 +1,27 @@
 <?xml version='1.0' encoding='utf-8'?>
-<tv><channel id="SONY.MAX.2.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb5431.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb5431.png" />
+<tv><channel id="Sky.Adventure.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1808.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1808.png" />
     <url>http://www.sky.com</url>
-    <display-name lang="en">SONY MAX 2</display-name>
+    <display-name lang="en">Sky Adventure</display-name>
   </channel>
-  <channel id="Sky.Cinema.Hits.HD.uk">
-    <icon src="https://cdn.tv-guide.future.sensi.link/images/channel/1be50627-1688-54a7-a314-dc256342c67a/logo.png" />
-    <icon src="https://cdn.tv-guide.future.sensi.link/images/channel/1be50627-1688-54a7-a314-dc256342c67a/logo.png" />
-    <url>http://www.whattowatch.com_uk</url>
-    <display-name lang="en">Sky Cinema Hits HD</display-name>
-  </channel>
-  <channel id="SkyValentineHD.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4020.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4020.png" />
+  <channel id="GREAT!.movies+1.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3771.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3771.png" />
     <url>http://www.sky.com</url>
-    <display-name lang="en">SkyValentineHD</display-name>
+    <display-name lang="en">GREAT! movies+1</display-name>
   </channel>
-  <channel id="Sky.Greats.HD.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4015.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4015.png" />
+  <channel id="Sky.Family.HD.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4018.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4018.png" />
     <url>http://www.sky.com</url>
-    <display-name lang="en">Sky Greats HD</display-name>
+    <display-name lang="en">Sky Family HD</display-name>
   </channel>
-  <channel id="SkyPremiere+1.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1823.png" />
+  <channel id="5ACTION.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1036.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1036.png" />
     <url>http://www.sky.com</url>
-    <display-name lang="en">SkyPremiere+1</display-name>
-  </channel>
-  <channel id="Movies24.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4420.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4420.png" />
-    <url>http://www.sky.com</url>
-    <display-name lang="en">Movies24</display-name>
+    <display-name lang="en">5ACTION</display-name>
   </channel>
   <channel id="TalkingPictures.uk">
     <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb5252.png" />
@@ -40,29 +29,11 @@
     <url>http://www.sky.com</url>
     <display-name lang="en">TalkingPictures</display-name>
   </channel>
-  <channel id="Sky.Thriller.HD.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4062.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4062.png" />
+  <channel id="GREAT!.romance.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3643.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3643.png" />
     <url>http://www.sky.com</url>
-    <display-name lang="en">Sky Thriller HD</display-name>
-  </channel>
-  <channel id="Film4.HD.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4044.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4044.png" />
-    <url>http://www.sky.com</url>
-    <display-name lang="en">Film4 HD</display-name>
-  </channel>
-  <channel id="Sky.Sci-Fi.HD.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4074.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4074.png" />
-    <url>http://www.sky.com</url>
-    <display-name lang="en">Sky Sci-Fi HD</display-name>
-  </channel>
-  <channel id="Sky.Cinema.Comedy.uk">
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-images/02e866d89112bb1b1a576f520d636de5.png?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4cxLxoRPe%2Be6QkpTmeP95IGvhHBXchnfTjwvsMaRU1caihM8fF%2FQDNm03mD0qz8w4RqV4T3T6ThRp1Uc%2BpBrwJ%2F%2BFYX8F9MYhdYsGFB%2BqzEeQ%3D%3D" />
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-images/02e866d89112bb1b1a576f520d636de5.png?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4cxLxoRPe%2Be6QkpTmeP95IGvhHBXchnfTjwvsMaRU1caihM8fF%2FQDNm03mD0qz8w4RqV4T3T6ThRp1Uc%2BpBrwJ%2F%2BFYX8F9MYhdYsGFB%2BqzEeQ%3D%3D" />
-    <url>http://www.mytelly.co.uk</url>
-    <display-name lang="en">Sky Cinema Comedy</display-name>
+    <display-name lang="en">GREAT! romance</display-name>
   </channel>
   <channel id="Film4+1.uk">
     <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1629.png" />
@@ -70,17 +41,41 @@
     <url>http://www.sky.com</url>
     <display-name lang="en">Film4+1</display-name>
   </channel>
-  <channel id="Sky.Cinema.Select.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4020.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4020.png" />
+  <channel id="Film4.HD.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4044.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4044.png" />
     <url>http://www.sky.com</url>
-    <display-name lang="en">Sky Cinema Select</display-name>
+    <display-name lang="en">Film4 HD</display-name>
   </channel>
-  <channel id="Sky.ScFi/HorHD.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4017.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4017.png" />
+  <channel id="Sky.Greats.HD.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4015.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4015.png" />
     <url>http://www.sky.com</url>
-    <display-name lang="en">Sky ScFi/HorHD</display-name>
+    <display-name lang="en">Sky Greats HD</display-name>
+  </channel>
+  <channel id="SkyPremiereHD.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4021.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4021.png" />
+    <url>http://www.sky.com</url>
+    <display-name lang="en">SkyPremiereHD</display-name>
+  </channel>
+  <channel id="GREAT!.movies.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3709.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3709.png" />
+    <url>http://www.sky.com</url>
+    <display-name lang="en">GREAT! movies</display-name>
+  </channel>
+  <channel id="Sky.Action.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1001.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1001.png" />
+    <url>http://www.sky.com</url>
+    <display-name lang="en">Sky Action</display-name>
+  </channel>
+  <channel id="SkyValentineHD.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4020.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4020.png" />
+    <url>http://www.sky.com</url>
+    <display-name lang="en">SkyValentineHD</display-name>
   </channel>
   <channel id="Legend.Xtra.uk">
     <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3605.png" />
@@ -90,41 +85,17 @@
     <url>http://www.sky.com</url>
     <display-name lang="en">Legend Xtra</display-name>
   </channel>
-  <channel id="5ACTION.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1036.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1036.png" />
+  <channel id="Sky.ScFi/HorHD.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4017.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4017.png" />
     <url>http://www.sky.com</url>
-    <display-name lang="en">5ACTION</display-name>
+    <display-name lang="en">Sky ScFi/HorHD</display-name>
   </channel>
-  <channel id="Sky.Action.HD.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4014.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4014.png" />
+  <channel id="Movies24.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4420.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4420.png" />
     <url>http://www.sky.com</url>
-    <display-name lang="en">Sky Action HD</display-name>
-  </channel>
-  <channel id="Sky.Family.HD.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4018.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4018.png" />
-    <url>http://www.sky.com</url>
-    <display-name lang="en">Sky Family HD</display-name>
-  </channel>
-  <channel id="GREAT!.movies+1.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3771.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3771.png" />
-    <url>http://www.sky.com</url>
-    <display-name lang="en">GREAT! movies+1</display-name>
-  </channel>
-  <channel id="Sky.Action.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1001.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1001.png" />
-    <url>http://www.sky.com</url>
-    <display-name lang="en">Sky Action</display-name>
-  </channel>
-  <channel id="Sky.Adventure.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1808.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1808.png" />
-    <url>http://www.sky.com</url>
-    <display-name lang="en">Sky Adventure</display-name>
+    <display-name lang="en">Movies24</display-name>
   </channel>
   <channel id="Sky.Valentine.uk">
     <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1811.png" />
@@ -138,6 +109,47 @@
     <url>http://www.sky.com</url>
     <display-name lang="en">Sky Premiere</display-name>
   </channel>
+  <channel id="SONY.MAX.2.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb5431.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb5431.png" />
+    <url>http://www.sky.com</url>
+    <display-name lang="en">SONY MAX 2</display-name>
+  </channel>
+  <channel id="Sky.Thriller.HD.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4062.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4062.png" />
+    <url>http://www.sky.com</url>
+    <display-name lang="en">Sky Thriller HD</display-name>
+  </channel>
+  <channel id="Sky.Cinema.Comedy.uk">
+    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-images/02e866d89112bb1b1a576f520d636de5.png?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4cxLxoRPe%2Be6QkpTmeP95IGvhHBXchnfTjwvsMaRU1caihM8fF%2FQDNm03mD0qz8w4RqV4T3T6ThRp1Uc%2BpBrwJ%2F%2BFYX8F9MYhdYsGFB%2BqzEeQ%3D%3D" />
+    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-images/02e866d89112bb1b1a576f520d636de5.png?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4cxLxoRPe%2Be6QkpTmeP95IGvhHBXchnfTjwvsMaRU1caihM8fF%2FQDNm03mD0qz8w4RqV4T3T6ThRp1Uc%2BpBrwJ%2F%2BFYX8F9MYhdYsGFB%2BqzEeQ%3D%3D" />
+    <url>http://www.mytelly.co.uk</url>
+    <display-name lang="en">Sky Cinema Comedy</display-name>
+  </channel>
+  <channel id="Sky.Sci-Fi.HD.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4074.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4074.png" />
+    <url>http://www.sky.com</url>
+    <display-name lang="en">Sky Sci-Fi HD</display-name>
+  </channel>
+  <channel id="Legend.Xtra+1.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4502.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4502.png" />
+    <url>http://www.sky.com</url>
+    <display-name lang="en">Legend Xtra+1</display-name>
+  </channel>
+  <channel id="Sky.Cinema.Select.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4020.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4020.png" />
+    <url>http://www.sky.com</url>
+    <display-name lang="en">Sky Cinema Select</display-name>
+  </channel>
+  <channel id="SkyPremiere+1.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1823.png" />
+    <url>http://www.sky.com</url>
+    <display-name lang="en">SkyPremiere+1</display-name>
+  </channel>
   <channel id="SkyAdventureHD.uk">
     <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4018.png" />
     <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4018.png" />
@@ -150,33 +162,21 @@
     <url>http://www.sky.com</url>
     <display-name lang="en">SONY MAX HD</display-name>
   </channel>
-  <channel id="Legend.Xtra+1.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4502.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4502.png" />
-    <url>http://www.sky.com</url>
-    <display-name lang="en">Legend Xtra+1</display-name>
-  </channel>
   <channel id="Movies24+.uk">
     <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4421.png" />
     <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4421.png" />
     <url>http://www.sky.com</url>
     <display-name lang="en">Movies24+</display-name>
   </channel>
-  <channel id="SkyPremiereHD.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4021.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4021.png" />
-    <url>http://www.sky.com</url>
-    <display-name lang="en">SkyPremiereHD</display-name>
-  </channel>
   <channel id="Legend.uk">
     <url>http://www.sky.com</url>
     <display-name lang="en">Legend</display-name>
   </channel>
-  <channel id="GREAT!.movies.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3709.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3709.png" />
+  <channel id="Sky.Action.HD.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4014.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4014.png" />
     <url>http://www.sky.com</url>
-    <display-name lang="en">GREAT! movies</display-name>
+    <display-name lang="en">Sky Action HD</display-name>
   </channel>
   <channel id="Sky.Greats.uk">
     <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1815.png" />
@@ -184,176 +184,12 @@
     <url>http://www.sky.com</url>
     <display-name lang="en">Sky Greats</display-name>
   </channel>
-  <channel id="GREAT!.romance.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3643.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3643.png" />
-    <url>http://www.sky.com</url>
-    <display-name lang="en">GREAT! romance</display-name>
+  <channel id="Sky.Cinema.Hits.HD.uk">
+    <icon src="https://cdn.tv-guide.future.sensi.link/images/channel/1be50627-1688-54a7-a314-dc256342c67a/logo.png" />
+    <icon src="https://cdn.tv-guide.future.sensi.link/images/channel/1be50627-1688-54a7-a314-dc256342c67a/logo.png" />
+    <url>http://www.whattowatch.com_uk</url>
+    <display-name lang="en">Sky Cinema Hits HD</display-name>
   </channel>
-  <programme channel="Sky.Valentine.uk" start="20260807010000 +0000" stop="20260807023000 +0000">
-    <title lang="en">The Wild Thornberrys Movie</title>
-    <desc lang="en">A youngster discovers she has the ability to talk to animals and must soon use her power to save a herd of elephants from poachers. Fun family animation. flashing images.</desc>
-    <date>2002</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Animation</category>
-    <icon src="https://images.metadata.sky.com/pd-image/f8062aa4-5e49-4649-b6f3-27f2716045c3/16-9" />
-    <rating system="UK">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme channel="Sky.Valentine.uk" start="20260807023000 +0000" stop="20260807040500 +0000">
-    <title lang="en">The Amazing Maurice</title>
-    <desc lang="en">Cat Maurice comes up with a money-making scam when he meets a group of talking rats. Star-studded Sky Original animation with the voices of Hugh Laurie and Emilia Clarke.</desc>
-    <date>2022</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Animation</category>
-    <icon src="https://images.metadata.sky.com/pd-image/159d71e6-789d-4b09-9a28-1e9ff6d94945/16-9" />
-    <rating system="UK">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="Sky.Valentine.uk" start="20260807040500 +0000" stop="20260807043000 +0000">
-    <title lang="en">The Cinema List: Family Favourites</title>
-    <desc lang="en">Discover some of the very best Sky Originals to watch with the whole family, from Monster Family to The Amazing Maurice.</desc>
-    <category lang="en">Movie</category>
-    <category lang="en">Factual</category>
-    <icon src="https://images.metadata.sky.com/pd-image/4cc98f8a-8d12-3a66-ae11-27c7f9d5a518/16-9" />
-    <rating system="UK">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme channel="Sky.Valentine.uk" start="20260807043000 +0000" stop="20260807060500 +0000">
-    <title lang="en">Piece by Piece</title>
-    <desc lang="en">A unique cinematic experience that invites audiences on a vibrant journey through the life of cultural icon Pharrell Williams told through the lens of LEGO animation.</desc>
-    <date>2024</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Animation</category>
-    <icon src="https://images.metadata.sky.com/pd-image/09ad451b-de3d-3df2-a8c9-18b01dbbde32/16-9" />
-    <rating system="UK">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="Sky.Valentine.uk" start="20260807060500 +0000" stop="20260807075000 +0000">
-    <title lang="en">Playmobil: The Movie</title>
-    <desc lang="en">When her younger brother disappears into the animated world of Playmobil, a woman must abandon her organised life to bring him back. Flashing images.</desc>
-    <date>2019</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Animation</category>
-    <icon src="https://images.metadata.sky.com/pd-image/5d657b58-0cc5-406c-9222-f31d7dc60e60/16-9" />
-    <rating system="UK">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme channel="Sky.Valentine.uk" start="20260807075000 +0000" stop="20260807092500 +0000">
-    <title lang="en">Dog Man</title>
-    <desc lang="en">A man and his dog are fused together to turn into Dog Man. They must stop a cat from cloning himself and creating an evil kitten.</desc>
-    <date>2025</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Animation</category>
-    <icon src="https://images.metadata.sky.com/pd-image/1cb58dcf-0848-4988-9aad-68821c24cb42/16-9" />
-    <rating system="UK">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme channel="Sky.Valentine.uk" start="20260807092500 +0000" stop="20260807112500 +0000">
-    <title lang="en">DC League Of Super Pets</title>
-    <desc lang="en">Dwayne Johnson stars as the voice of Krypto the Super-Dog, who must convince a rag-tag shelter pack to rescue the Justice League.</desc>
-    <date>2022</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Animation</category>
-    <icon src="https://images.metadata.sky.com/pd-image/b5ebef48-45fc-4002-9c5b-f11962da4c15/16-9" />
-    <rating system="UK">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="Sky.Valentine.uk" start="20260807112500 +0000" stop="20260807131000 +0000">
-    <title lang="en">Smurfs: The Lost Village</title>
-    <desc lang="en">A mysterious map sends Smurfette, Brainy, Clumsy and Hefty on a thrilling adventure into the Forbidden Forest. Animated fun with the voices of Demi Lovato and Julia Roberts.</desc>
-    <date>2017</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Animation</category>
-    <icon src="https://images.metadata.sky.com/pd-image/d9f3fa1d-99b2-4d9f-9ad2-edd9c0c0fdbf/16-9" />
-    <rating system="UK">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme channel="Sky.Valentine.uk" start="20260807131000 +0000" stop="20260807150000 +0000">
-    <title lang="en">Epic Tails</title>
-    <desc lang="en">Life in a beautiful city in ancient Greece takes a turn for a young mouse when she inadvertently helps Jason and his Argonauts on their quest. Animated adventure.</desc>
-    <date>2022</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Animation</category>
-    <icon src="https://images.metadata.sky.com/pd-image/081e7958-66c0-4726-a889-1600700b6d3e/16-9" />
-    <rating system="UK">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme channel="Sky.Valentine.uk" start="20260807150000 +0000" stop="20260807165000 +0000">
-    <title lang="en">The Lego Movie</title>
-    <desc lang="en">An ordinary Lego construction worker becomes responsible for stopping a dastardly tyrant. Animated hit with an all-star voice cast. Flashing images.</desc>
-    <date>2014</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Animation</category>
-    <icon src="https://images.metadata.sky.com/pd-image/4e228e6b-9162-4977-bf61-a57de288a102/16-9" />
-    <rating system="UK">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme channel="Sky.Valentine.uk" start="20260807165000 +0000" stop="20260807185000 +0000">
-    <title lang="en">Lego Movie 2: The Second Part</title>
-    <desc lang="en">The heroes of Bricksburg return in an action-packed comedy sequel. With Chris Pratt and Elizabeth Banks.</desc>
-    <date>2019</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Animation</category>
-    <icon src="https://images.metadata.sky.com/pd-image/00e0470e-8759-4b04-9d7e-d8a0d582ca2e/16-9" />
-    <rating system="UK">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme channel="Sky.Valentine.uk" start="20260807185000 +0000" stop="20260807203000 +0000">
-    <title lang="en">Monster Family</title>
-    <desc lang="en">The first Sky Cinema Original Film sees a young family cursed by a witch and transformed into monsters. Animated comedy with the voices of Emily Watson and Jason Isaacs.</desc>
-    <date>2017</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Animation</category>
-    <icon src="https://images.metadata.sky.com/pd-image/f92f6344-dccb-40e2-a34c-14d46d14a978/16-9" />
-    <rating system="UK">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="Sky.Valentine.uk" start="20260807203000 +0000" stop="20260807222000 +0000">
-    <title lang="en">Monster Family 2</title>
-    <desc lang="en">The Wishbone Family are back, this time on a mission to save their friends from a monster hunter! Animated comedy with the voices of Nick Frost and Jason Isaacs.</desc>
-    <date>2021</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Animation</category>
-    <icon src="https://images.metadata.sky.com/pd-image/2d9776ec-4496-42d8-93d5-d045e1bc6544/16-9" />
-    <rating system="UK">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="Sky.Valentine.uk" start="20260807222000 +0000" stop="20260807235500 +0000">
-    <title lang="en">Mr. Peabody And Sherman</title>
-    <desc lang="en">Super-smart dog Mr Peabody has to come to the rescue when his human son takes their time machine out for a spin - playing havoc with history! Fun-packed family animation.</desc>
-    <date>2014</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Animation</category>
-    <icon src="https://images.metadata.sky.com/pd-image/850990f3-6dbc-445d-9e48-011aa48525ca/16-9" />
-    <rating system="UK">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme channel="Sky.Valentine.uk" start="20260807235500 +0000" stop="20260808011500 +0000">
-    <title lang="en">Tim Burton's Corpse Bride</title>
-    <desc lang="en">A nervy bridegroom practising his vows in a graveyard inadvertently finds himself with an undead spouse. Wild fantasy animation.</desc>
-    <date>2005</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Animation</category>
-    <icon src="https://images.metadata.sky.com/pd-image/9b61be61-a894-4a7a-8fc2-d6786d54f51f/16-9" />
-    <rating system="UK">
-      <value>PG</value>
-    </rating>
-  </programme>
   <programme channel="Sky.Valentine.uk" start="20260808011500 +0000" stop="20260808024500 +0000">
     <title lang="en">Flushed Away</title>
     <desc lang="en">Rich rodent Hugh Jackman takes the S-bend express into London's sewers, where savvy scavenger Kate Winslet helps him dodge French assassin Le Frog. Aardman animation.</desc>
@@ -847,18 +683,117 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="SkyValentineHD.uk" start="20260807010000 +0000" stop="20260807023000 +0000">
-    <title lang="en">The Wild Thornberrys Movie</title>
-    <desc lang="en">A youngster discovers she has the ability to talk to animals and must soon use her power to save a herd of elephants from poachers. Fun family animation. flashing images.</desc>
-    <date>2002</date>
+  <programme channel="Sky.Valentine.uk" start="20260811001500 +0000" stop="20260811014500 +0000">
+    <title lang="en">10 Lives</title>
+    <desc lang="en">When Beckett the cat loses his ninth life, fate sets him on a journey of self-discovery. Animated comedy with Mo Gilligan. Sky Original.</desc>
+    <date>2024</date>
     <category lang="en">Movie</category>
     <category lang="en">Animation</category>
-    <icon src="https://images.metadata.sky.com/pd-image/f8062aa4-5e49-4649-b6f3-27f2716045c3/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/ca59f91d-406b-3855-b949-ff93862170cc/16-9" />
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="Sky.Valentine.uk" start="20260811014500 +0000" stop="20260811032000 +0000">
+    <title lang="en">Fireheart</title>
+    <desc lang="en">Georgia has always dreamt of becoming a firefighter. Defying the rules of 1930s New York, she pretends to be a male fireman as an arsonist ignites Broadway's theatres.</desc>
+    <date>2022</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Animation</category>
+    <icon src="https://images.metadata.sky.com/pd-image/6098cedc-e08d-488c-8ba7-f1a26c839c13/16-9" />
     <rating system="UK">
       <value>U</value>
     </rating>
   </programme>
-  <programme channel="SkyValentineHD.uk" start="20260807023000 +0000" stop="20260807040500 +0000">
+  <programme channel="Sky.Valentine.uk" start="20260811032000 +0000" stop="20260811045000 +0000">
+    <title lang="en">The Pirates! In An Adventure...</title>
+    <desc lang="en">Pirate Captain has dreams of rising up the pirate ranks. Can he beat his rivals to be crowned Pirate of the Year? With Hugh Grant, Martin Freeman and Salma Hayek.</desc>
+    <date>2012</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Animation</category>
+    <icon src="https://images.metadata.sky.com/pd-image/24859a07-faf9-40f6-83ec-ff8fe241f850/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="Sky.Valentine.uk" start="20260811045000 +0000" stop="20260811063000 +0000">
+    <title lang="en">Rebellious</title>
+    <desc lang="en">In this modern twist on a classic fairy tale, a princess is taken by an evil sorcerer. As her fiancé sets out to find her, she plots her daring escape.</desc>
+    <date>2024</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Animation</category>
+    <icon src="https://images.metadata.sky.com/pd-image/54a1b78b-2ecc-3128-950f-4aff17f7cc3e/16-9" />
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="Sky.Valentine.uk" start="20260811063000 +0000" stop="20260811081000 +0000">
+    <title lang="en">The Spongebob Movie: Sponge Out of Water</title>
+    <desc lang="en">SpongeBob and the gang leap into action when a pirate steals the secret recipe for Krabby Patties. Family adventure. Flashing images.</desc>
+    <date>2015</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Family</category>
+    <icon src="https://images.metadata.sky.com/pd-image/4e3f3a6e-2847-42ab-8919-f765711fca81/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="Sky.Valentine.uk" start="20260811081000 +0000" stop="20260811094500 +0000">
+    <title lang="en">Chicken Run</title>
+    <desc lang="en">Top animation from the makers of Wallace and Gromit. A tale of battery hens and freedom, with star voices including Mel Gibson.</desc>
+    <date>2000</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Family</category>
+    <icon src="https://images.metadata.sky.com/pd-image/fcd98f51-1deb-4d3c-8bf3-0f7e4dca13ab/16-9" />
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="Sky.Valentine.uk" start="20260811094500 +0000" stop="20260811113000 +0000">
+    <title lang="en">Looney Tunes: The Day The...</title>
+    <desc lang="en">Porky Pig and Daffy Duck are Earth's only hope when facing the threat of alien invasion. Charming hand-drawn animation.</desc>
+    <date>2024</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Family</category>
+    <icon src="https://images.metadata.sky.com/pd-image/2dcdab9c-8257-452b-85ae-e63a082de832/16-9" />
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="Sky.Valentine.uk" start="20260811113000 +0000" stop="20260811131500 +0000">
+    <title lang="en">Hotel Transylvania</title>
+    <desc lang="en">Hotel Transylvania is the perfect place for monsters to escape the human world, until an unwitting hitchhiker tries to check in. Animated fun with the voice of Adam Sandler.</desc>
+    <date>2012</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Animation</category>
+    <icon src="https://images.metadata.sky.com/pd-image/23b4e8f3-6f48-351c-8726-34309adbc339/16-9" />
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="Sky.Valentine.uk" start="20260811131500 +0000" stop="20260811150000 +0000">
+    <title lang="en">The Ant Bully</title>
+    <desc lang="en">Shrunk by the ants he tormented, Lucas must learn to work with the insects, instead of against them. Bugs bite back in this animation from the director of Jimmy Neutron.</desc>
+    <date>2006</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Animation</category>
+    <icon src="https://images.metadata.sky.com/pd-image/85954fa8-4e34-4485-9d92-49779943a0a8/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="Sky.Valentine.uk" start="20260811150000 +0000" stop="20260811163500 +0000">
+    <title lang="en">Hotel Transylvania 2</title>
+    <desc lang="en">Dracula recruits his friends to help bring out the monster in his half human, half vampire grandson. Animated sequel with the voices of Adam Sandler and Andy Samberg.</desc>
+    <date>2015</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Animation</category>
+    <icon src="https://images.metadata.sky.com/pd-image/0c047495-85d8-4680-9e4b-ad8fa4f625d9/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="Sky.Valentine.uk" start="20260811163500 +0000" stop="20260811181000 +0000">
     <title lang="en">The Amazing Maurice</title>
     <desc lang="en">Cat Maurice comes up with a money-making scam when he meets a group of talking rats. Star-studded Sky Original animation with the voices of Hugh Laurie and Emilia Clarke.</desc>
     <date>2022</date>
@@ -869,146 +804,48 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="SkyValentineHD.uk" start="20260807040500 +0000" stop="20260807043000 +0000">
-    <title lang="en">The Cinema List: Family Favourites</title>
-    <desc lang="en">Discover some of the very best Sky Originals to watch with the whole family, from Monster Family to The Amazing Maurice.</desc>
-    <category lang="en">Movie</category>
-    <category lang="en">Factual</category>
-    <icon src="https://images.metadata.sky.com/pd-image/4cc98f8a-8d12-3a66-ae11-27c7f9d5a518/16-9" />
-    <rating system="UK">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme channel="SkyValentineHD.uk" start="20260807043000 +0000" stop="20260807060500 +0000">
-    <title lang="en">Piece by Piece</title>
-    <desc lang="en">A unique cinematic experience that invites audiences on a vibrant journey through the life of cultural icon Pharrell Williams told through the lens of LEGO animation.</desc>
-    <date>2024</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Animation</category>
-    <icon src="https://images.metadata.sky.com/pd-image/09ad451b-de3d-3df2-a8c9-18b01dbbde32/16-9" />
-    <rating system="UK">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="SkyValentineHD.uk" start="20260807060500 +0000" stop="20260807075000 +0000">
-    <title lang="en">Playmobil: The Movie</title>
-    <desc lang="en">When her younger brother disappears into the animated world of Playmobil, a woman must abandon her organised life to bring him back. Flashing images.</desc>
-    <date>2019</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Animation</category>
-    <icon src="https://images.metadata.sky.com/pd-image/5d657b58-0cc5-406c-9222-f31d7dc60e60/16-9" />
-    <rating system="UK">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme channel="SkyValentineHD.uk" start="20260807075000 +0000" stop="20260807092500 +0000">
-    <title lang="en">Dog Man</title>
-    <desc lang="en">A man and his dog are fused together to turn into Dog Man. They must stop a cat from cloning himself and creating an evil kitten.</desc>
-    <date>2025</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Animation</category>
-    <icon src="https://images.metadata.sky.com/pd-image/1cb58dcf-0848-4988-9aad-68821c24cb42/16-9" />
-    <rating system="UK">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme channel="SkyValentineHD.uk" start="20260807092500 +0000" stop="20260807112500 +0000">
-    <title lang="en">DC League Of Super Pets</title>
-    <desc lang="en">Dwayne Johnson stars as the voice of Krypto the Super-Dog, who must convince a rag-tag shelter pack to rescue the Justice League.</desc>
-    <date>2022</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Animation</category>
-    <icon src="https://images.metadata.sky.com/pd-image/b5ebef48-45fc-4002-9c5b-f11962da4c15/16-9" />
-    <rating system="UK">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="SkyValentineHD.uk" start="20260807112500 +0000" stop="20260807131000 +0000">
-    <title lang="en">Smurfs: The Lost Village</title>
-    <desc lang="en">A mysterious map sends Smurfette, Brainy, Clumsy and Hefty on a thrilling adventure into the Forbidden Forest. Animated fun with the voices of Demi Lovato and Julia Roberts.</desc>
-    <date>2017</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Animation</category>
-    <icon src="https://images.metadata.sky.com/pd-image/d9f3fa1d-99b2-4d9f-9ad2-edd9c0c0fdbf/16-9" />
-    <rating system="UK">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme channel="SkyValentineHD.uk" start="20260807131000 +0000" stop="20260807150000 +0000">
-    <title lang="en">Epic Tails</title>
-    <desc lang="en">Life in a beautiful city in ancient Greece takes a turn for a young mouse when she inadvertently helps Jason and his Argonauts on their quest. Animated adventure.</desc>
-    <date>2022</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Animation</category>
-    <icon src="https://images.metadata.sky.com/pd-image/081e7958-66c0-4726-a889-1600700b6d3e/16-9" />
-    <rating system="UK">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme channel="SkyValentineHD.uk" start="20260807150000 +0000" stop="20260807165000 +0000">
-    <title lang="en">The Lego Movie</title>
-    <desc lang="en">An ordinary Lego construction worker becomes responsible for stopping a dastardly tyrant. Animated hit with an all-star voice cast. Flashing images.</desc>
+  <programme channel="Sky.Valentine.uk" start="20260811181000 +0000" stop="20260811194000 +0000">
+    <title lang="en">Shaun The Sheep The Movie</title>
+    <desc lang="en">Shaun the Sheep has to head into the big city and rescue the Farmer when a mischievous plan gets out of control. Delightful Aardman animation.</desc>
     <date>2014</date>
     <category lang="en">Movie</category>
     <category lang="en">Animation</category>
-    <icon src="https://images.metadata.sky.com/pd-image/4e228e6b-9162-4977-bf61-a57de288a102/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/3cbae934-0d8e-36ae-806a-81184d2d8cbe/16-9" />
     <rating system="UK">
       <value>U</value>
     </rating>
   </programme>
-  <programme channel="SkyValentineHD.uk" start="20260807165000 +0000" stop="20260807185000 +0000">
-    <title lang="en">Lego Movie 2: The Second Part</title>
-    <desc lang="en">The heroes of Bricksburg return in an action-packed comedy sequel. With Chris Pratt and Elizabeth Banks.</desc>
-    <date>2019</date>
+  <programme channel="Sky.Valentine.uk" start="20260811194000 +0000" stop="20260811210500 +0000">
+    <title lang="en">Antz</title>
+    <desc lang="en">Woody Allen leads the voice cast as a worker ant desperate to escape colony conformity and woo the beautiful princess. Sharon Stone also voices this animated adventure.</desc>
+    <date>1998</date>
     <category lang="en">Movie</category>
     <category lang="en">Animation</category>
-    <icon src="https://images.metadata.sky.com/pd-image/00e0470e-8759-4b04-9d7e-d8a0d582ca2e/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/688e0a3e-cfea-3abb-8601-5762108db285/16-9" />
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="Sky.Valentine.uk" start="20260811210500 +0000" stop="20260811224000 +0000">
+    <title lang="en">Cloudy With A Chance Of Meatballs</title>
+    <desc lang="en">An inventor builds a machine that turns rain showers into food showers, but greed soon sends it spinning out of control. Delectable animation with the voice of Anna Faris.</desc>
+    <date>2009</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Animation</category>
+    <icon src="https://images.metadata.sky.com/pd-image/1542038d-5690-49f8-a3ee-6eb9d81c9f6f/16-9" />
     <rating system="UK">
       <value>U</value>
     </rating>
   </programme>
-  <programme channel="SkyValentineHD.uk" start="20260807185000 +0000" stop="20260807203000 +0000">
-    <title lang="en">Monster Family</title>
-    <desc lang="en">The first Sky Cinema Original Film sees a young family cursed by a witch and transformed into monsters. Animated comedy with the voices of Emily Watson and Jason Isaacs.</desc>
-    <date>2017</date>
+  <programme channel="Sky.Valentine.uk" start="20260811224000 +0000" stop="20260812002000 +0000">
+    <title lang="en">Cloudy With A Chance Of Meatballs 2</title>
+    <desc lang="en">Chaos ensues when a scientist discovers his invention, which turns water into meals, is creating animals made of food. Flashing images.</desc>
+    <date>2013</date>
     <category lang="en">Movie</category>
     <category lang="en">Animation</category>
-    <icon src="https://images.metadata.sky.com/pd-image/f92f6344-dccb-40e2-a34c-14d46d14a978/16-9" />
-    <rating system="UK">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="SkyValentineHD.uk" start="20260807203000 +0000" stop="20260807222000 +0000">
-    <title lang="en">Monster Family 2</title>
-    <desc lang="en">The Wishbone Family are back, this time on a mission to save their friends from a monster hunter! Animated comedy with the voices of Nick Frost and Jason Isaacs.</desc>
-    <date>2021</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Animation</category>
-    <icon src="https://images.metadata.sky.com/pd-image/2d9776ec-4496-42d8-93d5-d045e1bc6544/16-9" />
-    <rating system="UK">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="SkyValentineHD.uk" start="20260807222000 +0000" stop="20260807235500 +0000">
-    <title lang="en">Mr. Peabody And Sherman</title>
-    <desc lang="en">Super-smart dog Mr Peabody has to come to the rescue when his human son takes their time machine out for a spin - playing havoc with history! Fun-packed family animation.</desc>
-    <date>2014</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Animation</category>
-    <icon src="https://images.metadata.sky.com/pd-image/850990f3-6dbc-445d-9e48-011aa48525ca/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/46522699-84e7-4b2f-9096-87c113752bf9/16-9" />
     <rating system="UK">
       <value>U</value>
-    </rating>
-  </programme>
-  <programme channel="SkyValentineHD.uk" start="20260807235500 +0000" stop="20260808011500 +0000">
-    <title lang="en">Tim Burton's Corpse Bride</title>
-    <desc lang="en">A nervy bridegroom practising his vows in a graveyard inadvertently finds himself with an undead spouse. Wild fantasy animation.</desc>
-    <date>2005</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Animation</category>
-    <icon src="https://images.metadata.sky.com/pd-image/9b61be61-a894-4a7a-8fc2-d6786d54f51f/16-9" />
-    <rating system="UK">
-      <value>PG</value>
     </rating>
   </programme>
   <programme channel="SkyValentineHD.uk" start="20260808011500 +0000" stop="20260808024500 +0000">
@@ -1504,115 +1341,169 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="SONY.MAX.HD.uk" start="20260807021900 +0000" stop="20260807040000 +0000">
-    <title lang="en">Naughty @ 40</title>
-    <desc lang="en">Happy, a 40-year-old, marries Gauri, a childlike woman, and frustration leads him into the arms of a model. When Gauri finds out about their relation, she decides to change her attitude.</desc>
+  <programme channel="SkyValentineHD.uk" start="20260811001500 +0000" stop="20260811014500 +0000">
+    <title lang="en">10 Lives</title>
+    <desc lang="en">When Beckett the cat loses his ninth life, fate sets him on a journey of self-discovery. Animated comedy with Mo Gilligan. Sky Original.</desc>
+    <date>2024</date>
     <category lang="en">Movie</category>
-    <category lang="en">Comedy</category>
-    <icon src="https://images.metadata.sky.com/pd-image/797bcacb-520f-332f-a352-6cc725fc2ea2/16-9" />
-    <rating system="UK">
-      <value>12</value>
-    </rating>
-  </programme>
-  <programme channel="SONY.MAX.HD.uk" start="20260807040000 +0000" stop="20260807041800 +0000">
-    <title lang="en">Extraaa Storiez: 12th Fail</title>
-    <desc lang="en">Watch behind the scenes and meet the cast and crew of the movie.</desc>
-    <category lang="en">Movie</category>
-    <category lang="en">Drama</category>
-    <icon src="https://images.metadata.sky.com/pd-image/1bbbe2df-366d-3693-8f55-67389f01fd8e/16-9" />
+    <category lang="en">Animation</category>
+    <icon src="https://images.metadata.sky.com/pd-image/ca59f91d-406b-3855-b949-ff93862170cc/16-9" />
     <rating system="UK">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="SONY.MAX.HD.uk" start="20260807041800 +0000" stop="20260807063500 +0000">
-    <title lang="en">Street Dancer 3d</title>
-    <desc lang="en">Two rival dance groups, Street Dancer and Rule Breakers, despise each other and participate in a dance battle. Later, they decide to join hands for a greater cause.</desc>
+  <programme channel="SkyValentineHD.uk" start="20260811014500 +0000" stop="20260811032000 +0000">
+    <title lang="en">Fireheart</title>
+    <desc lang="en">Georgia has always dreamt of becoming a firefighter. Defying the rules of 1930s New York, she pretends to be a male fireman as an arsonist ignites Broadway's theatres.</desc>
+    <date>2022</date>
     <category lang="en">Movie</category>
-    <category lang="en">Drama</category>
-    <icon src="https://images.metadata.sky.com/pd-image/9fadc4e5-b444-4f9c-b895-febc64788bc9/16-9" />
+    <category lang="en">Animation</category>
+    <icon src="https://images.metadata.sky.com/pd-image/6098cedc-e08d-488c-8ba7-f1a26c839c13/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkyValentineHD.uk" start="20260811032000 +0000" stop="20260811045000 +0000">
+    <title lang="en">The Pirates! In An Adventure...</title>
+    <desc lang="en">Pirate Captain has dreams of rising up the pirate ranks. Can he beat his rivals to be crowned Pirate of the Year? With Hugh Grant, Martin Freeman and Salma Hayek.</desc>
+    <date>2012</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Animation</category>
+    <icon src="https://images.metadata.sky.com/pd-image/24859a07-faf9-40f6-83ec-ff8fe241f850/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkyValentineHD.uk" start="20260811045000 +0000" stop="20260811063000 +0000">
+    <title lang="en">Rebellious</title>
+    <desc lang="en">In this modern twist on a classic fairy tale, a princess is taken by an evil sorcerer. As her fiancé sets out to find her, she plots her daring escape.</desc>
+    <date>2024</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Animation</category>
+    <icon src="https://images.metadata.sky.com/pd-image/54a1b78b-2ecc-3128-950f-4aff17f7cc3e/16-9" />
     <rating system="UK">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="SONY.MAX.HD.uk" start="20260807063500 +0000" stop="20260807083500 +0000">
-    <title lang="en">Kahan Shuru Kahan Khatam</title>
-    <desc lang="en">A woman rejects her arranged marriage, sparking a chaotic chase as she tries to escape the wedding, while the groom and his family try to catch her.</desc>
+  <programme channel="SkyValentineHD.uk" start="20260811063000 +0000" stop="20260811081000 +0000">
+    <title lang="en">The Spongebob Movie: Sponge Out of Water</title>
+    <desc lang="en">SpongeBob and the gang leap into action when a pirate steals the secret recipe for Krabby Patties. Family adventure. Flashing images.</desc>
+    <date>2015</date>
     <category lang="en">Movie</category>
-    <category lang="en">Drama</category>
-    <icon src="https://images.metadata.sky.com/pd-image/b269be70-4ca4-4e00-9957-72c4fb24f8c4/16-9" />
+    <category lang="en">Family</category>
+    <icon src="https://images.metadata.sky.com/pd-image/4e3f3a6e-2847-42ab-8919-f765711fca81/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkyValentineHD.uk" start="20260811081000 +0000" stop="20260811094500 +0000">
+    <title lang="en">Chicken Run</title>
+    <desc lang="en">Top animation from the makers of Wallace and Gromit. A tale of battery hens and freedom, with star voices including Mel Gibson.</desc>
+    <date>2000</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Family</category>
+    <icon src="https://images.metadata.sky.com/pd-image/fcd98f51-1deb-4d3c-8bf3-0f7e4dca13ab/16-9" />
     <rating system="UK">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="SONY.MAX.HD.uk" start="20260807083500 +0000" stop="20260807115300 +0000">
-    <title lang="en">Sitaare Zameen Par</title>
-    <desc lang="en">A basketball coach serves community service by training Neurodivergent adults after a DUI. His outlook changes as he learns from his players.</desc>
+  <programme channel="SkyValentineHD.uk" start="20260811094500 +0000" stop="20260811113000 +0000">
+    <title lang="en">Looney Tunes: The Day The...</title>
+    <desc lang="en">Porky Pig and Daffy Duck are Earth's only hope when facing the threat of alien invasion. Charming hand-drawn animation.</desc>
+    <date>2024</date>
     <category lang="en">Movie</category>
-    <category lang="en">Drama</category>
-    <icon src="https://images.metadata.sky.com/pd-image/bd32e10e-7337-44c4-ba65-cd1258bee6be/16-9" />
+    <category lang="en">Family</category>
+    <icon src="https://images.metadata.sky.com/pd-image/2dcdab9c-8257-452b-85ae-e63a082de832/16-9" />
     <rating system="UK">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="SONY.MAX.HD.uk" start="20260807115300 +0000" stop="20260807141900 +0000">
-    <title lang="en">Ek Chalis Ki Last Local</title>
-    <desc lang="en">A comic thriller about two people who miss the last local train at 1:40 am and how missing of their train changes their course of life forever.</desc>
+  <programme channel="SkyValentineHD.uk" start="20260811113000 +0000" stop="20260811131500 +0000">
+    <title lang="en">Hotel Transylvania</title>
+    <desc lang="en">Hotel Transylvania is the perfect place for monsters to escape the human world, until an unwitting hitchhiker tries to check in. Animated fun with the voice of Adam Sandler.</desc>
+    <date>2012</date>
     <category lang="en">Movie</category>
-    <category lang="en">Drama</category>
-    <icon src="https://images.metadata.sky.com/pd-image/4c252b92-d16f-499a-8f28-e54560eaf95f/16-9" />
+    <category lang="en">Animation</category>
+    <icon src="https://images.metadata.sky.com/pd-image/23b4e8f3-6f48-351c-8726-34309adbc339/16-9" />
     <rating system="UK">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="SONY.MAX.HD.uk" start="20260807141900 +0000" stop="20260807165900 +0000">
-    <title lang="en">Sherni</title>
-    <desc lang="en">An upright Forest Officer who strives for balance in a world of man-animal conflict while she also seeks her true calling in a hostile environment.</desc>
+  <programme channel="SkyValentineHD.uk" start="20260811131500 +0000" stop="20260811150000 +0000">
+    <title lang="en">The Ant Bully</title>
+    <desc lang="en">Shrunk by the ants he tormented, Lucas must learn to work with the insects, instead of against them. Bugs bite back in this animation from the director of Jimmy Neutron.</desc>
+    <date>2006</date>
     <category lang="en">Movie</category>
-    <category lang="en">Drama</category>
-    <icon src="https://images.metadata.sky.com/pd-image/89572f50-7527-3c63-bffd-ef3c7d38fc87/16-9" />
+    <category lang="en">Animation</category>
+    <icon src="https://images.metadata.sky.com/pd-image/85954fa8-4e34-4485-9d92-49779943a0a8/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkyValentineHD.uk" start="20260811150000 +0000" stop="20260811163500 +0000">
+    <title lang="en">Hotel Transylvania 2</title>
+    <desc lang="en">Dracula recruits his friends to help bring out the monster in his half human, half vampire grandson. Animated sequel with the voices of Adam Sandler and Andy Samberg.</desc>
+    <date>2015</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Animation</category>
+    <icon src="https://images.metadata.sky.com/pd-image/0c047495-85d8-4680-9e4b-ad8fa4f625d9/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkyValentineHD.uk" start="20260811163500 +0000" stop="20260811181000 +0000">
+    <title lang="en">The Amazing Maurice</title>
+    <desc lang="en">Cat Maurice comes up with a money-making scam when he meets a group of talking rats. Star-studded Sky Original animation with the voices of Hugh Laurie and Emilia Clarke.</desc>
+    <date>2022</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Animation</category>
+    <icon src="https://images.metadata.sky.com/pd-image/159d71e6-789d-4b09-9a28-1e9ff6d94945/16-9" />
     <rating system="UK">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="SONY.MAX.HD.uk" start="20260807165900 +0000" stop="20260807194900 +0000">
-    <title lang="en">Srikanth</title>
-    <desc lang="en">In a world where the odds are against him, Srikanth defies the norms and makes his way from rural India to becoming the first visually impaired student at MIT.</desc>
+  <programme channel="SkyValentineHD.uk" start="20260811181000 +0000" stop="20260811194000 +0000">
+    <title lang="en">Shaun The Sheep The Movie</title>
+    <desc lang="en">Shaun the Sheep has to head into the big city and rescue the Farmer when a mischievous plan gets out of control. Delightful Aardman animation.</desc>
+    <date>2014</date>
     <category lang="en">Movie</category>
-    <category lang="en">Drama</category>
-    <icon src="https://images.metadata.sky.com/pd-image/3ee877c3-2268-35a4-9f66-c4b215384cff/16-9" />
+    <category lang="en">Animation</category>
+    <icon src="https://images.metadata.sky.com/pd-image/3cbae934-0d8e-36ae-806a-81184d2d8cbe/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkyValentineHD.uk" start="20260811194000 +0000" stop="20260811210500 +0000">
+    <title lang="en">Antz</title>
+    <desc lang="en">Woody Allen leads the voice cast as a worker ant desperate to escape colony conformity and woo the beautiful princess. Sharon Stone also voices this animated adventure.</desc>
+    <date>1998</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Animation</category>
+    <icon src="https://images.metadata.sky.com/pd-image/688e0a3e-cfea-3abb-8601-5762108db285/16-9" />
     <rating system="UK">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="SONY.MAX.HD.uk" start="20260807194900 +0000" stop="20260807200100 +0000">
-    <title lang="en">Comedy Station - Bittu Bak Bak</title>
-    <desc lang="en">Series of short, comedic vignettes where an unlucky Bhojpuri producer Champaklal and his secretary Suzie hilariously navigate chaotic, low-budget filmmaking, trying to outsmart each other.</desc>
+  <programme channel="SkyValentineHD.uk" start="20260811210500 +0000" stop="20260811224000 +0000">
+    <title lang="en">Cloudy With A Chance Of Meatballs</title>
+    <desc lang="en">An inventor builds a machine that turns rain showers into food showers, but greed soon sends it spinning out of control. Delectable animation with the voice of Anna Faris.</desc>
+    <date>2009</date>
     <category lang="en">Movie</category>
-    <category lang="en">Drama</category>
-    <icon src="https://images.metadata.sky.com/pd-image/1713961a-f6cb-4344-adb5-4f84c95a7e0e/16-9" />
-    <episode-num system="xmltv_ns">0.9.</episode-num>
+    <category lang="en">Animation</category>
+    <icon src="https://images.metadata.sky.com/pd-image/1542038d-5690-49f8-a3ee-6eb9d81c9f6f/16-9" />
     <rating system="UK">
-      <value>PG</value>
+      <value>U</value>
     </rating>
   </programme>
-  <programme channel="SONY.MAX.HD.uk" start="20260807200100 +0000" stop="20260807230800 +0000">
-    <title lang="en">Article 370</title>
-    <desc lang="en">A young field agent is picked from the Prime Minister's office for a top-secret mission to crack down on terrorism and corruption.</desc>
+  <programme channel="SkyValentineHD.uk" start="20260811224000 +0000" stop="20260812002000 +0000">
+    <title lang="en">Cloudy With A Chance Of Meatballs 2</title>
+    <desc lang="en">Chaos ensues when a scientist discovers his invention, which turns water into meals, is creating animals made of food. Flashing images.</desc>
+    <date>2013</date>
     <category lang="en">Movie</category>
-    <category lang="en">Action</category>
-    <icon src="https://images.metadata.sky.com/pd-image/6153a392-a13e-3759-b81b-9c28029ecd54/16-9" />
+    <category lang="en">Animation</category>
+    <icon src="https://images.metadata.sky.com/pd-image/46522699-84e7-4b2f-9096-87c113752bf9/16-9" />
     <rating system="UK">
-      <value>15</value>
-    </rating>
-  </programme>
-  <programme channel="SONY.MAX.HD.uk" start="20260807230800 +0000" stop="20260808020000 +0000">
-    <title lang="en">Saiyaara</title>
-    <desc lang="en">Passionate lovers navigate a rollercoaster romance, facing euphoric highs and crushing lows while desperately clinging to their tumultuous bond.</desc>
-    <category lang="en">Movie</category>
-    <category lang="en">Drama</category>
-    <icon src="https://images.metadata.sky.com/pd-image/87ca5419-0ea7-4ccf-88e3-8cb7e9b7e3aa/16-9" />
-    <rating system="UK">
-      <value>PG</value>
+      <value>U</value>
     </rating>
   </programme>
   <programme channel="SONY.MAX.HD.uk" start="20260808020000 +0000" stop="20260808040000 +0000">
@@ -1927,84 +1818,104 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="SONY.MAX.2.uk" start="20260807020900 +0000" stop="20260807041300 +0000">
-    <title lang="en">Janam Se Pahle</title>
-    <desc lang="en">Kishen has murdered three people but is unaware of the crime because of his mental condition. Radha, a defence lawyer tries to save him.</desc>
+  <programme channel="SONY.MAX.HD.uk" start="20260811012700 +0000" stop="20260811032700 +0000">
+    <title lang="en">Criminal</title>
+    <desc lang="en">Ajay Kumar, a successful and famous doctor, is on a quest to prove his innocence when he is accused of murdering his wife Swetha. He seeks the help of Ramya, a cop who secretly loves him.</desc>
     <category lang="en">Movie</category>
-    <category lang="en">Drama</category>
-    <icon src="https://images.metadata.sky.com/pd-image/245dc811-46db-4340-93a8-37953617abdd/16-9" />
+    <category lang="en">Thriller</category>
+    <icon src="https://images.metadata.sky.com/pd-image/2c427a99-6107-4e50-9019-2d5fd93a030f/16-9" />
     <rating system="UK">
       <value>15</value>
     </rating>
   </programme>
-  <programme channel="SONY.MAX.2.uk" start="20260807041300 +0000" stop="20260807070000 +0000">
-    <title lang="en">Ramji Londonwale</title>
-    <desc lang="en">This is the story about Ramji, who is a skilled cook and flies to London to try his luck in work. It is the story about his journey and life in London.</desc>
+  <programme channel="SONY.MAX.HD.uk" start="20260811032700 +0000" stop="20260811043100 +0000">
+    <title lang="en">The Making Of Pk</title>
+    <desc lang="en">Watch behind the scenes and meet the cast and crew of the movie.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/0443ec08-9875-4187-b9ad-1713eecd6efb/16-9" />
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="SONY.MAX.HD.uk" start="20260811043100 +0000" stop="20260811062300 +0000">
+    <title lang="en">Ek Chalis Ki Last Local</title>
+    <desc lang="en">A comic thriller about two people who miss the last local train at 1:40 am and how missing of their train changes their course of life forever.</desc>
     <category lang="en">Movie</category>
     <category lang="en">Drama</category>
-    <icon src="https://images.metadata.sky.com/pd-image/ff10b851-0035-3581-a527-e0a7858be60f/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/4c252b92-d16f-499a-8f28-e54560eaf95f/16-9" />
     <rating system="UK">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="SONY.MAX.2.uk" start="20260807070000 +0000" stop="20260807092700 +0000">
-    <title lang="en">Khamoshi</title>
-    <desc lang="en">Radha is a nurse at a hospital treating patients. Her work involves providing patients with unconditional love and care and in doing so she finds herself falling in love with them.</desc>
-    <category lang="en">Movie</category>
-    <category lang="en">Romance</category>
-    <icon src="https://images.metadata.sky.com/pd-image/e40b7bd8-1e7f-4116-a65e-3176d6922601/16-9" />
-    <rating system="UK">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="SONY.MAX.2.uk" start="20260807092700 +0000" stop="20260807115500 +0000">
-    <title lang="en">Heera</title>
-    <desc lang="en">Heera is wrongly accused of murder and is sentenced to death, but he manages to escape from prison and becomes a bandit. He tries to prove his innocence and kills anyone who comes in his way.</desc>
+  <programme channel="SONY.MAX.HD.uk" start="20260811062300 +0000" stop="20260811084000 +0000">
+    <title lang="en">Srinivasa Kalyanam</title>
+    <desc lang="en">Srinivas, a simple man, falls in love with Sridevi and they decide to marry each other. However, problems arise in the form of the difference of opinion between Srinivas and her father.</desc>
     <category lang="en">Movie</category>
     <category lang="en">Drama</category>
-    <icon src="https://images.metadata.sky.com/pd-image/4a1dfc4c-aacf-4668-962c-cd3d2578b3ac/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/b9e123d7-a4a0-4ca0-b266-38f0101478ef/16-9" />
     <rating system="UK">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="SONY.MAX.2.uk" start="20260807115500 +0000" stop="20260807145900 +0000">
-    <title lang="en">Style</title>
-    <desc lang="en">Best friends Bantu and Chantu try make two wealthy girls fall in love with them. However, they find out that the girls have been murdered and become prime suspects.</desc>
-    <category lang="en">Movie</category>
-    <category lang="en">Drama</category>
-    <icon src="https://images.metadata.sky.com/pd-image/69faaae8-a553-3340-91d0-fc1d7930ce76/16-9" />
-    <rating system="UK">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="SONY.MAX.2.uk" start="20260807145900 +0000" stop="20260807181900 +0000">
-    <title lang="en">Taqdeerwala</title>
-    <desc lang="en">Yamraj and Chitragupta come to Earth to find the missing book of destiny but discover it with a man who won't return it, as it reveals details about his mother's lifespan.</desc>
+  <programme channel="SONY.MAX.HD.uk" start="20260811084000 +0000" stop="20260811112400 +0000">
+    <title lang="en">Khel Khel Mein</title>
+    <desc lang="en">Friends at a dinner play a game where everyone unlocks their phones and shares their messages and calls. The game starts out as fun but it takes a turn when secrets are revealed.</desc>
     <category lang="en">Movie</category>
     <category lang="en">Comedy</category>
-    <icon src="https://images.metadata.sky.com/pd-image/48f86722-5efc-4a2d-a57b-413515e792a2/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/4966d77f-0145-4285-9cbd-13a38a539149/16-9" />
     <rating system="UK">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="SONY.MAX.2.uk" start="20260807181900 +0000" stop="20260807220600 +0000">
-    <title lang="en">Raaj Tilak</title>
-    <desc lang="en">A king is cheated by his own men and his newborn son ends up in a gypsy camp. Several years later, when a substitute prince, Shamsher, inflicts atrocities on the royal family, the lost prince returns.</desc>
+  <programme channel="SONY.MAX.HD.uk" start="20260811112400 +0000" stop="20260811141900 +0000">
+    <title lang="en">It's My Life</title>
+    <desc lang="en">Abhishek is a young man from a wealthy family whose life has always been controlled by his overbearing father. However, he soon decides to stand up to him after falling in love with a woman.</desc>
     <category lang="en">Movie</category>
     <category lang="en">Drama</category>
-    <icon src="https://images.metadata.sky.com/pd-image/9018521e-691d-410e-9a35-a1f9634d8fae/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/bfb59b14-c320-3b8b-a8b3-3bb88285e262/16-9" />
     <rating system="UK">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="SONY.MAX.2.uk" start="20260807220600 +0000" stop="20260808004300 +0000">
-    <title lang="en">Aaj Ki Awaz</title>
-    <desc lang="en">A mild-mannered but conscientious citizen turns vigilante to counter police apathy but pays a price for it when mafia kill his family. Devastated, he takes on the criminals in a fight to the finish.</desc>
+  <programme channel="SONY.MAX.HD.uk" start="20260811141900 +0000" stop="20260811165900 +0000">
+    <title lang="en">Batla House</title>
+    <desc lang="en">Police conduct a raid on a house in Delhi, India, to search for terrorist suspects.</desc>
     <category lang="en">Movie</category>
     <category lang="en">Drama</category>
-    <icon src="https://images.metadata.sky.com/pd-image/faa23794-9ec6-4605-bdce-4ecd2569b56f/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/ca11fc94-9383-44bc-96cf-3bfbe5b1fa9d/16-9" />
     <rating system="UK">
       <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="SONY.MAX.HD.uk" start="20260811165900 +0000" stop="20260811194900 +0000">
+    <title lang="en">Mere Husband Ki Biwi</title>
+    <desc lang="en">A divorced man's life turns chaotic when his college crush returns just as his amnesiac ex-wife reappears, sparking a hilarious love triangle full of confusion.</desc>
+    <category lang="en">Movie</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.metadata.sky.com/pd-image/97dc8a5e-63f1-4c30-b0fd-e4f44dbc1164/16-9" />
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="SONY.MAX.HD.uk" start="20260811194900 +0000" stop="20260811224500 +0000">
+    <title lang="en">12th Fail</title>
+    <desc lang="en">IPS officer Manoj Kumar Sharma embarks on a fearless journey to restart his academic pursuit, aiming to conquer the world's toughest competitive exam.</desc>
+    <category lang="en">Movie</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/30cb8756-3409-303b-8065-de548ec6fba5/16-9" />
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="SONY.MAX.HD.uk" start="20260811224500 +0000" stop="20260812020300 +0000">
+    <title lang="en">Tere Ishk Mein</title>
+    <desc lang="en">Shankar and Mukti's intense love story unfolds against the backdrop of Benaras, exploring surrender and transformation that heals, hurts and changes them.</desc>
+    <category lang="en">Movie</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/283f89a1-e21a-41c2-9513-72309199458c/16-9" />
+    <rating system="UK">
+      <value>12</value>
     </rating>
   </programme>
   <programme channel="SONY.MAX.2.uk" start="20260808004300 +0000" stop="20260808032000 +0000">
@@ -2278,6 +2189,130 @@
     <icon src="https://images.metadata.sky.com/pd-image/d99982bd-548f-4db6-a088-c925c6c454ef/16-9" />
     <rating system="UK">
       <value>18</value>
+    </rating>
+  </programme>
+  <programme channel="SONY.MAX.2.uk" start="20260811003800 +0000" stop="20260811031800 +0000">
+    <title lang="en">Pratigyabadh</title>
+    <desc lang="en">Shankar grows up to become the right hand of a gangster. His goal in life is to take revenge on the moneylender who rendered his family homeless and a truck driver who molested and killed his mother.</desc>
+    <category lang="en">Movie</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/3fee5971-4f35-40a8-9a9d-63c0a92091e8/16-9" />
+    <rating system="UK">
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme channel="SONY.MAX.2.uk" start="20260811031800 +0000" stop="20260811034400 +0000">
+    <title lang="en">Conversation With Javed Akhtar 2</title>
+    <desc lang="en">Lyricist, poet, screenwriter, Javed Akhtar along with film expert Nasreen Ali and Shabana Azmi, provides a fascinating and personal insight into his extraordinary life and new book Talking Life.</desc>
+    <category lang="en">Specialist</category>
+    <category lang="en">Events</category>
+    <icon src="https://images.metadata.sky.com/pd-image/7a02545f-e461-3cb2-b4fb-fbbf0c5563d3/16-9" />
+    <episode-num system="xmltv_ns">0.1/5.</episode-num>
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="SONY.MAX.2.uk" start="20260811034400 +0000" stop="20260811035400 +0000">
+    <title lang="en">Comedy Station - Bittu Bak Bak</title>
+    <desc lang="en">Series of short, comedic vignettes where an unlucky Bhojpuri producer Champaklal and his secretary Suzie hilariously navigate chaotic, low-budget filmmaking, trying to outsmart each other.</desc>
+    <category lang="en">Movie</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/1713961a-f6cb-4344-adb5-4f84c95a7e0e/16-9" />
+    <episode-num system="xmltv_ns">0.9.</episode-num>
+    <rating system="UK">
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme channel="SONY.MAX.2.uk" start="20260811035400 +0000" stop="20260811060000 +0000">
+    <title lang="en">Heera</title>
+    <desc lang="en">Heera is wrongly accused of murder and is sentenced to death, but he manages to escape from prison and becomes a bandit. He tries to prove his innocence and kills anyone who comes in his way.</desc>
+    <category lang="en">Movie</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/4a1dfc4c-aacf-4668-962c-cd3d2578b3ac/16-9" />
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="SONY.MAX.2.uk" start="20260811060000 +0000" stop="20260811062900 +0000">
+    <title lang="en">Conversation With Javed Akhtar 2</title>
+    <desc lang="en">Lyricist, poet, screenwriter, Javed Akhtar along with film expert Nasreen Ali and Shabana Azmi, provides a fascinating and personal insight into his extraordinary life and new book Talking Life.</desc>
+    <category lang="en">Specialist</category>
+    <category lang="en">Events</category>
+    <icon src="https://images.metadata.sky.com/pd-image/7a02545f-e461-3cb2-b4fb-fbbf0c5563d3/16-9" />
+    <episode-num system="xmltv_ns">0.1/5.</episode-num>
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="SONY.MAX.2.uk" start="20260811062900 +0000" stop="20260811092600 +0000">
+    <title lang="en">Tohfa</title>
+    <desc lang="en">Two sisters fall for the same man. One of them sacrifices her love but she is carrying a secret.</desc>
+    <category lang="en">Movie</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/50fa1e8f-f230-41d2-a496-5c6bcfae12af/16-9" />
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="SONY.MAX.2.uk" start="20260811092600 +0000" stop="20260811120500 +0000">
+    <title lang="en">Apne Paraye</title>
+    <desc lang="en">This is a story of two lawyer brothers, their half brother, their wives and children.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.metadata.sky.com/pd-image/40f166cf-5daf-4e60-9a79-e7b4c3010644/16-9" />
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="SONY.MAX.2.uk" start="20260811120500 +0000" stop="20260811150000 +0000">
+    <title lang="en">Nishana</title>
+    <desc lang="en">Raja, the son of a hunter, falls in love with Kavita, the daughter of a rich man. Kavita's father opposes their marriage due to the background of Raja's father.</desc>
+    <category lang="en">Movie</category>
+    <category lang="en">Action</category>
+    <icon src="https://images.metadata.sky.com/pd-image/50a1148c-3df9-35be-9cf1-6e08510a9f94/16-9" />
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="SONY.MAX.2.uk" start="20260811150000 +0000" stop="20260811175300 +0000">
+    <title lang="en">Roja</title>
+    <desc lang="en">Roja lives in a Tamil village, and her sister is about to marry a man from the city, who decides to marry Roja instead and gets a job assignment in Kashmir, where some militants decide to kidnap him.</desc>
+    <category lang="en">Movie</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/dded3fb8-7a47-4dd0-b59c-7d3509a7e17f/16-9" />
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="SONY.MAX.2.uk" start="20260811175300 +0000" stop="20260811204900 +0000">
+    <title lang="en">Dil Toh Baccha Hai Ji</title>
+    <desc lang="en">Three roommates are in search of true love. They each find a girl with whom they fall head over heels in love with. Now they just have to get the women to reciprocate.</desc>
+    <category lang="en">Movie</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/2b398211-4012-44d6-8813-a2944cbab93c/16-9" />
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="SONY.MAX.2.uk" start="20260811204900 +0000" stop="20260811210000 +0000">
+    <title lang="en">Comedy Station - Bittu Bak Bak</title>
+    <desc lang="en">Series of short, comedic vignettes where an unlucky Bhojpuri producer Champaklal and his secretary Suzie hilariously navigate chaotic, low-budget filmmaking, trying to outsmart each other.</desc>
+    <category lang="en">Movie</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/1713961a-f6cb-4344-adb5-4f84c95a7e0e/16-9" />
+    <episode-num system="xmltv_ns">0.9.</episode-num>
+    <rating system="UK">
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme channel="SONY.MAX.2.uk" start="20260811210000 +0000" stop="20260811235700 +0000">
+    <title lang="en">Plan</title>
+    <desc lang="en">Four friends Bobby, Lucky, Jai and Omi arrive in Mumbai with dreams of making it big. They kidnap a businessman hoping to extort money from him, but he turns out to be a gangster.</desc>
+    <category lang="en">Movie</category>
+    <category lang="en">Action</category>
+    <icon src="https://images.metadata.sky.com/pd-image/bac2f04a-db58-42a1-95cd-e41d1eb4f123/16-9" />
+    <rating system="UK">
+      <value>12</value>
     </rating>
   </programme>
   <programme channel="Sky.Action.uk" start="20260807014500 +0000" stop="20260807033000 +0000">
@@ -7122,168 +7157,305 @@
       <value>15</value>
     </rating>
   </programme>
-  <programme channel="Sky.Cinema.Select.uk" start="20260807010000 +0000" stop="20260807023000 +0000">
-    <title lang="en">The Wild Thornberrys Movie</title>
-    <desc lang="en">A youngster discovers she has the ability to talk to animals and must soon use her power to save a herd of elephants from poachers. Fun family animation. flashing images.</desc>
-    <date>2002</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Animation</category>
-    <icon src="https://images.metadata.sky.com/pd-image/f8062aa4-5e49-4649-b6f3-27f2716045c3/16-9" />
+  <programme channel="Sky.Sci-Fi.HD.uk" start="20260810230000 +0000" stop="20260811000000 +0000">
+    <title lang="en">Resident Alien</title>
+    <sub-title lang="en">Family Day</sub-title>
+    <desc lang="en">Harry and Asta's trip is interrupted by an uninvited relative as the town celebrates family. (S2, ep 5 of.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/d8a8f9d1-b16b-4a13-bc02-54c82357b6f3/16-9" />
+    <episode-num system="xmltv_ns">215..</episode-num>
     <rating system="UK">
-      <value>U</value>
+      <value>15</value>
     </rating>
   </programme>
-  <programme channel="Sky.Cinema.Select.uk" start="20260807023000 +0000" stop="20260807040500 +0000">
-    <title lang="en">The Amazing Maurice</title>
-    <desc lang="en">Cat Maurice comes up with a money-making scam when he meets a group of talking rats. Star-studded Sky Original animation with the voices of Hugh Laurie and Emilia Clarke.</desc>
-    <date>2022</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Animation</category>
-    <icon src="https://images.metadata.sky.com/pd-image/159d71e6-789d-4b09-9a28-1e9ff6d94945/16-9" />
+  <programme channel="Sky.Sci-Fi.HD.uk" start="20260811000000 +0000" stop="20260811010000 +0000">
+    <title lang="en">Warehouse 13</title>
+    <sub-title lang="en">An Evil Within</sub-title>
+    <desc lang="en">Pete and Myka must investigate an artefact that's causing mysterious mobs of people to riot and hallucinate.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/58ab983b-26c0-4d1c-8f77-535b8ef2fdcd/16-9" />
+    <episode-num system="xmltv_ns">3.1.</episode-num>
     <rating system="UK">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="Sky.Cinema.Select.uk" start="20260807040500 +0000" stop="20260807043000 +0000">
-    <title lang="en">The Cinema List: Family Favourites</title>
-    <desc lang="en">Discover some of the very best Sky Originals to watch with the whole family, from Monster Family to The Amazing Maurice.</desc>
-    <category lang="en">Movie</category>
+  <programme channel="Sky.Sci-Fi.HD.uk" start="20260811010000 +0000" stop="20260811020000 +0000">
+    <title lang="en">Warehouse 13</title>
+    <sub-title lang="en">Personal Effects</sub-title>
+    <desc lang="en">When a box of artefacts is unleashed, Pete and Myka need the help of the team to prevent a small town from being destroyed. Contains flashing images.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/ccea92ee-b5e6-45dc-828b-aca9ae80803a/16-9" />
+    <episode-num system="xmltv_ns">3.12.</episode-num>
+    <rating system="UK">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme channel="Sky.Sci-Fi.HD.uk" start="20260811020000 +0000" stop="20260811030000 +0000">
+    <title lang="en">The Walking Dead</title>
+    <sub-title lang="en">The Other Side</sub-title>
+    <desc lang="en">The Saviours make an unexpected visit to the Hilltop and take more supplies than agreed upon. Violence/gore.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Sci-Fi</category>
+    <icon src="https://images.metadata.sky.com/pd-image/dfdffcdf-b84f-4267-b081-c41eccb61ec1/16-9" />
+    <episode-num system="xmltv_ns">6.13.</episode-num>
+    <rating system="UK">
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme channel="Sky.Sci-Fi.HD.uk" start="20260811030000 +0000" stop="20260811040000 +0000">
+    <title lang="en">Most Haunted</title>
+    <sub-title lang="en">Niddry Street Vaults</sub-title>
+    <desc lang="en">Entertainment series following Yvette Fielding and a team of paranormal experts as they spend 24 hours in Britain and Ireland's most haunted locations.</desc>
+    <category lang="en">Entertainment</category>
     <category lang="en">Factual</category>
-    <icon src="https://images.metadata.sky.com/pd-image/4cc98f8a-8d12-3a66-ae11-27c7f9d5a518/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/7d328e81-179a-42c0-a870-c84cfebf9edf/16-9" />
+    <episode-num system="xmltv_ns">10.3.</episode-num>
     <rating system="UK">
-      <value>U</value>
+      <value>15</value>
     </rating>
   </programme>
-  <programme channel="Sky.Cinema.Select.uk" start="20260807043000 +0000" stop="20260807060500 +0000">
-    <title lang="en">Piece by Piece</title>
-    <desc lang="en">A unique cinematic experience that invites audiences on a vibrant journey through the life of cultural icon Pharrell Williams told through the lens of LEGO animation.</desc>
-    <date>2024</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Animation</category>
-    <icon src="https://images.metadata.sky.com/pd-image/09ad451b-de3d-3df2-a8c9-18b01dbbde32/16-9" />
+  <programme channel="Sky.Sci-Fi.HD.uk" start="20260811040000 +0000" stop="20260811050000 +0000">
+    <title lang="en">Most Haunted</title>
+    <sub-title lang="en">Jedburgh Castle</sub-title>
+    <desc lang="en">Entertainment series following Yvette Fielding and a team of paranormal experts as they spend 24 hours in Britain and Ireland's most haunted locations.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Factual</category>
+    <icon src="https://images.metadata.sky.com/pd-image/cf9ca3fb-f06f-4187-8054-bb5e2ce68f39/16-9" />
+    <episode-num system="xmltv_ns">10.4.</episode-num>
+    <rating system="UK">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme channel="Sky.Sci-Fi.HD.uk" start="20260811050000 +0000" stop="20260811060000 +0000">
+    <title lang="en">Most Haunted</title>
+    <sub-title lang="en">Invary Castle</sub-title>
+    <desc lang="en">Entertainment series following Yvette Fielding and a team of paranormal experts as they spend 24 hours in Britain and Ireland's most haunted locations.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Factual</category>
+    <icon src="https://images.metadata.sky.com/pd-image/c5b9613f-7a4d-4f02-96c2-2700c56734db/16-9" />
+    <episode-num system="xmltv_ns">12.4.</episode-num>
     <rating system="UK">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="Sky.Cinema.Select.uk" start="20260807060500 +0000" stop="20260807075000 +0000">
-    <title lang="en">Playmobil: The Movie</title>
-    <desc lang="en">When her younger brother disappears into the animated world of Playmobil, a woman must abandon her organised life to bring him back. Flashing images.</desc>
-    <date>2019</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Animation</category>
-    <icon src="https://images.metadata.sky.com/pd-image/5d657b58-0cc5-406c-9222-f31d7dc60e60/16-9" />
-    <rating system="UK">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme channel="Sky.Cinema.Select.uk" start="20260807075000 +0000" stop="20260807092500 +0000">
-    <title lang="en">Dog Man</title>
-    <desc lang="en">A man and his dog are fused together to turn into Dog Man. They must stop a cat from cloning himself and creating an evil kitten.</desc>
-    <date>2025</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Animation</category>
-    <icon src="https://images.metadata.sky.com/pd-image/1cb58dcf-0848-4988-9aad-68821c24cb42/16-9" />
-    <rating system="UK">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme channel="Sky.Cinema.Select.uk" start="20260807092500 +0000" stop="20260807112500 +0000">
-    <title lang="en">DC League Of Super Pets</title>
-    <desc lang="en">Dwayne Johnson stars as the voice of Krypto the Super-Dog, who must convince a rag-tag shelter pack to rescue the Justice League.</desc>
-    <date>2022</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Animation</category>
-    <icon src="https://images.metadata.sky.com/pd-image/b5ebef48-45fc-4002-9c5b-f11962da4c15/16-9" />
+  <programme channel="Sky.Sci-Fi.HD.uk" start="20260811060000 +0000" stop="20260811070000 +0000">
+    <title lang="en">Most Haunted</title>
+    <sub-title lang="en">Kelvidon Bunker</sub-title>
+    <desc lang="en">Entertainment series following Yvette Fielding and a team of paranormal experts as they spend 24 hours in Britain and Ireland's most haunted locations.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Factual</category>
+    <icon src="https://images.metadata.sky.com/pd-image/2e8ca55f-f27f-4872-8515-537a1097d36c/16-9" />
+    <episode-num system="xmltv_ns">12.5.</episode-num>
     <rating system="UK">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="Sky.Cinema.Select.uk" start="20260807112500 +0000" stop="20260807131000 +0000">
-    <title lang="en">Smurfs: The Lost Village</title>
-    <desc lang="en">A mysterious map sends Smurfette, Brainy, Clumsy and Hefty on a thrilling adventure into the Forbidden Forest. Animated fun with the voices of Demi Lovato and Julia Roberts.</desc>
-    <date>2017</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Animation</category>
-    <icon src="https://images.metadata.sky.com/pd-image/d9f3fa1d-99b2-4d9f-9ad2-edd9c0c0fdbf/16-9" />
+  <programme channel="Sky.Sci-Fi.HD.uk" start="20260811070000 +0000" stop="20260811073000 +0000">
+    <title lang="en">Teleshopping 2026</title>
+    <sub-title lang="en">Teleshopping</sub-title>
+    <category lang="en">Specialist</category>
+    <category lang="en">Shopping</category>
+    <episode-num system="xmltv_ns">.118.</episode-num>
     <rating system="UK">
       <value>U</value>
     </rating>
   </programme>
-  <programme channel="Sky.Cinema.Select.uk" start="20260807131000 +0000" stop="20260807150000 +0000">
-    <title lang="en">Epic Tails</title>
-    <desc lang="en">Life in a beautiful city in ancient Greece takes a turn for a young mouse when she inadvertently helps Jason and his Argonauts on their quest. Animated adventure.</desc>
-    <date>2022</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Animation</category>
-    <icon src="https://images.metadata.sky.com/pd-image/081e7958-66c0-4726-a889-1600700b6d3e/16-9" />
+  <programme channel="Sky.Sci-Fi.HD.uk" start="20260811073000 +0000" stop="20260811080000 +0000">
+    <title lang="en">Teleshopping 2026</title>
+    <sub-title lang="en">Teleshopping</sub-title>
+    <category lang="en">Specialist</category>
+    <category lang="en">Shopping</category>
+    <episode-num system="xmltv_ns">.82.</episode-num>
     <rating system="UK">
       <value>U</value>
     </rating>
   </programme>
-  <programme channel="Sky.Cinema.Select.uk" start="20260807150000 +0000" stop="20260807165000 +0000">
-    <title lang="en">The Lego Movie</title>
-    <desc lang="en">An ordinary Lego construction worker becomes responsible for stopping a dastardly tyrant. Animated hit with an all-star voice cast. Flashing images.</desc>
-    <date>2014</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Animation</category>
-    <icon src="https://images.metadata.sky.com/pd-image/4e228e6b-9162-4977-bf61-a57de288a102/16-9" />
+  <programme channel="Sky.Sci-Fi.HD.uk" start="20260811080000 +0000" stop="20260811083000 +0000">
+    <title lang="en">Teleshopping 2026</title>
+    <sub-title lang="en">Teleshopping</sub-title>
+    <category lang="en">Specialist</category>
+    <category lang="en">Shopping</category>
+    <episode-num system="xmltv_ns">.82.</episode-num>
     <rating system="UK">
       <value>U</value>
     </rating>
   </programme>
-  <programme channel="Sky.Cinema.Select.uk" start="20260807165000 +0000" stop="20260807185000 +0000">
-    <title lang="en">Lego Movie 2: The Second Part</title>
-    <desc lang="en">The heroes of Bricksburg return in an action-packed comedy sequel. With Chris Pratt and Elizabeth Banks.</desc>
-    <date>2019</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Animation</category>
-    <icon src="https://images.metadata.sky.com/pd-image/00e0470e-8759-4b04-9d7e-d8a0d582ca2e/16-9" />
+  <programme channel="Sky.Sci-Fi.HD.uk" start="20260811083000 +0000" stop="20260811090000 +0000">
+    <title lang="en">Teleshopping 2026</title>
+    <sub-title lang="en">Teleshopping</sub-title>
+    <category lang="en">Specialist</category>
+    <category lang="en">Shopping</category>
+    <episode-num system="xmltv_ns">.101.</episode-num>
     <rating system="UK">
       <value>U</value>
     </rating>
   </programme>
-  <programme channel="Sky.Cinema.Select.uk" start="20260807185000 +0000" stop="20260807203000 +0000">
-    <title lang="en">Monster Family</title>
-    <desc lang="en">The first Sky Cinema Original Film sees a young family cursed by a witch and transformed into monsters. Animated comedy with the voices of Emily Watson and Jason Isaacs.</desc>
-    <date>2017</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Animation</category>
-    <icon src="https://images.metadata.sky.com/pd-image/f92f6344-dccb-40e2-a34c-14d46d14a978/16-9" />
+  <programme channel="Sky.Sci-Fi.HD.uk" start="20260811090000 +0000" stop="20260811100000 +0000">
+    <title lang="en">Cruise TV with LoveitBookit</title>
+    <desc lang="en">Your one-stop-shop for all things cruise; bringing you the hottest destinations, ground-breaking ships and the latest deals to ensure your next cruise holiday is your greatest one.</desc>
+    <category lang="en">Specialist</category>
+    <category lang="en">Shopping</category>
+    <icon src="https://images.metadata.sky.com/pd-image/c4d2b9a0-692c-44d5-ac76-776d70d3df40/16-9" />
+    <episode-num system="xmltv_ns">.122.</episode-num>
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="Sky.Sci-Fi.HD.uk" start="20260811100000 +0000" stop="20260811110000 +0000">
+    <title lang="en">Star Trek: Enterprise</title>
+    <sub-title lang="en">Azati Prime</sub-title>
+    <desc lang="en">Archer sets off on a dangerous mission to destroy the Xindi super weapon before they can use it to eliminate Earth from the galaxy.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Sci-Fi</category>
+    <icon src="https://images.metadata.sky.com/pd-image/d1e7f598-160e-43b5-8417-0b1b9217af1f/16-9" />
+    <episode-num system="xmltv_ns">2.17.</episode-num>
     <rating system="UK">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="Sky.Cinema.Select.uk" start="20260807203000 +0000" stop="20260807222000 +0000">
-    <title lang="en">Monster Family 2</title>
-    <desc lang="en">The Wishbone Family are back, this time on a mission to save their friends from a monster hunter! Animated comedy with the voices of Nick Frost and Jason Isaacs.</desc>
-    <date>2021</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Animation</category>
-    <icon src="https://images.metadata.sky.com/pd-image/2d9776ec-4496-42d8-93d5-d045e1bc6544/16-9" />
+  <programme channel="Sky.Sci-Fi.HD.uk" start="20260811110000 +0000" stop="20260811120000 +0000">
+    <title lang="en">Star Trek: Voyager</title>
+    <sub-title lang="en">Live Fast and Prosper</sub-title>
+    <desc lang="en">A group of con artists cause trouble when they impersonate Janeway and co. Can the crew find the impostors before they're punished for their crimes.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Sci-Fi</category>
+    <icon src="https://images.metadata.sky.com/pd-image/fa7bf743-f30d-4018-b513-1db3bd24df4e/16-9" />
+    <episode-num system="xmltv_ns">5.20.</episode-num>
     <rating system="UK">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="Sky.Cinema.Select.uk" start="20260807222000 +0000" stop="20260807235500 +0000">
-    <title lang="en">Mr. Peabody And Sherman</title>
-    <desc lang="en">Super-smart dog Mr Peabody has to come to the rescue when his human son takes their time machine out for a spin - playing havoc with history! Fun-packed family animation.</desc>
-    <date>2014</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Animation</category>
-    <icon src="https://images.metadata.sky.com/pd-image/850990f3-6dbc-445d-9e48-011aa48525ca/16-9" />
+  <programme channel="Sky.Sci-Fi.HD.uk" start="20260811120000 +0000" stop="20260811130000 +0000">
+    <title lang="en">Stargate Atlantis</title>
+    <sub-title lang="en">This Mortal Coil</sub-title>
+    <desc lang="en">The Atlantis team's worst fears are realised when a mysterious probe crashes into the city, and the crew are convinced the Replicators have found them.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Sci-Fi</category>
+    <icon src="https://images.metadata.sky.com/pd-image/20fe9fd6-8ab8-41bc-bc13-5726abe9732b/16-9" />
+    <episode-num system="xmltv_ns">3.9.</episode-num>
     <rating system="UK">
-      <value>U</value>
+      <value>12</value>
     </rating>
   </programme>
-  <programme channel="Sky.Cinema.Select.uk" start="20260807235500 +0000" stop="20260808011500 +0000">
-    <title lang="en">Tim Burton's Corpse Bride</title>
-    <desc lang="en">A nervy bridegroom practising his vows in a graveyard inadvertently finds himself with an undead spouse. Wild fantasy animation.</desc>
-    <date>2005</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Animation</category>
-    <icon src="https://images.metadata.sky.com/pd-image/9b61be61-a894-4a7a-8fc2-d6786d54f51f/16-9" />
+  <programme channel="Sky.Sci-Fi.HD.uk" start="20260811130000 +0000" stop="20260811140000 +0000">
+    <title lang="en">Warehouse 13</title>
+    <sub-title lang="en">There's Always a Downside</sub-title>
+    <desc lang="en">While the rest of the team chase an artefact at a school, Myka and Steve are in New Orleans on the trail of another.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/b59ea4d1-6010-47e2-89db-20a46ae236fb/16-9" />
+    <episode-num system="xmltv_ns">3.3.</episode-num>
     <rating system="UK">
       <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="Sky.Sci-Fi.HD.uk" start="20260811140000 +0000" stop="20260811150000 +0000">
+    <title lang="en">Warehouse 13</title>
+    <sub-title lang="en">No Pain No Gain</sub-title>
+    <desc lang="en">Artie and Steve investigate artefacts that have been stolen from the warehouse, whilst Pete and Myka probe the miraculous recovery of an athlete.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/959d1344-ae48-465f-a78b-facb54d93503/16-9" />
+    <episode-num system="xmltv_ns">3.4.</episode-num>
+    <rating system="UK">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme channel="Sky.Sci-Fi.HD.uk" start="20260811150000 +0000" stop="20260811160000 +0000">
+    <title lang="en">Stargate SG-1</title>
+    <sub-title lang="en">Icon</sub-title>
+    <desc lang="en">SG-1's arrival on another planet sparks a civil war between the Rand Protectorate and the Caledonian Federation. Daniel tries to stop the fighting but ends up trapped.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Sci-Fi</category>
+    <icon src="https://images.metadata.sky.com/pd-image/014f655a-8c24-45ed-9175-6f7528b203b2/16-9" />
+    <episode-num system="xmltv_ns">7.4.</episode-num>
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="Sky.Sci-Fi.HD.uk" start="20260811160000 +0000" stop="20260811170000 +0000">
+    <title lang="en">Star Trek: Voyager</title>
+    <sub-title lang="en">Live Fast and Prosper</sub-title>
+    <desc lang="en">A group of con artists cause trouble when they impersonate Janeway and co. Can the crew find the impostors before they're punished for their crimes.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Sci-Fi</category>
+    <icon src="https://images.metadata.sky.com/pd-image/fa7bf743-f30d-4018-b513-1db3bd24df4e/16-9" />
+    <episode-num system="xmltv_ns">5.20.</episode-num>
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="Sky.Sci-Fi.HD.uk" start="20260811170000 +0000" stop="20260811180000 +0000">
+    <title lang="en">Star Trek: Enterprise</title>
+    <sub-title lang="en">Azati Prime</sub-title>
+    <desc lang="en">Archer sets off on a dangerous mission to destroy the Xindi super weapon before they can use it to eliminate Earth from the galaxy.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Sci-Fi</category>
+    <icon src="https://images.metadata.sky.com/pd-image/d1e7f598-160e-43b5-8417-0b1b9217af1f/16-9" />
+    <episode-num system="xmltv_ns">2.17.</episode-num>
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="Sky.Sci-Fi.HD.uk" start="20260811180000 +0000" stop="20260811190000 +0000">
+    <title lang="en">Stargate Atlantis</title>
+    <sub-title lang="en">This Mortal Coil</sub-title>
+    <desc lang="en">The Atlantis team's worst fears are realised when a mysterious probe crashes into the city, and the crew are convinced the Replicators have found them.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Sci-Fi</category>
+    <icon src="https://images.metadata.sky.com/pd-image/20fe9fd6-8ab8-41bc-bc13-5726abe9732b/16-9" />
+    <episode-num system="xmltv_ns">3.9.</episode-num>
+    <rating system="UK">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme channel="Sky.Sci-Fi.HD.uk" start="20260811190000 +0000" stop="20260811200000 +0000">
+    <title lang="en">Stargate SG-1</title>
+    <sub-title lang="en">Icon</sub-title>
+    <desc lang="en">SG-1's arrival on another planet sparks a civil war between the Rand Protectorate and the Caledonian Federation. Daniel tries to stop the fighting but ends up trapped.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Sci-Fi</category>
+    <icon src="https://images.metadata.sky.com/pd-image/014f655a-8c24-45ed-9175-6f7528b203b2/16-9" />
+    <episode-num system="xmltv_ns">7.4.</episode-num>
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="Sky.Sci-Fi.HD.uk" start="20260811200000 +0000" stop="20260811210000 +0000">
+    <title lang="en">Resident Alien</title>
+    <sub-title lang="en">Escape From New York</sub-title>
+    <desc lang="en">As danger closes in, Harry and Asta find what they are looking for - but not what they need. (S2, ep 7 of.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <icon src="https://images.metadata.sky.com/pd-image/91f6fcef-8bab-4649-b29d-c502e99e542c/16-9" />
+    <episode-num system="xmltv_ns">215..</episode-num>
+    <rating system="UK">
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme channel="Sky.Sci-Fi.HD.uk" start="20260811210000 +0000" stop="20260811220000 +0000">
+    <title lang="en">Grimm</title>
+    <sub-title lang="en">Oh Captain, My Captain</sub-title>
+    <desc lang="en">Nick attempts to take Renard out of his comfort zone, while the others look to push his plan through.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Sci-Fi</category>
+    <icon src="https://images.metadata.sky.com/pd-image/1a595023-dfd4-4043-9cba-95b93e28b619/16-9" />
+    <episode-num system="xmltv_ns">5.2.</episode-num>
+    <rating system="UK">
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme channel="Sky.Sci-Fi.HD.uk" start="20260811220000 +0000" stop="20260811230000 +0000">
+    <title lang="en">The Walking Dead</title>
+    <sub-title lang="en">Something They Need</sub-title>
+    <desc lang="en">A group of Alexandrians embark on a journey, with one member having to make a heartbreaking decision. Violence/gore.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Sci-Fi</category>
+    <icon src="https://images.metadata.sky.com/pd-image/a1fdb603-9722-49d6-8af5-035c586f7a5e/16-9" />
+    <episode-num system="xmltv_ns">6.14.</episode-num>
+    <rating system="UK">
+      <value>18</value>
     </rating>
   </programme>
   <programme channel="Sky.Cinema.Select.uk" start="20260808011500 +0000" stop="20260808024500 +0000">
@@ -7777,6 +7949,171 @@
     <icon src="https://images.metadata.sky.com/pd-image/c90e6807-c28b-48ab-958d-353a288004ec/16-9" />
     <rating system="UK">
       <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="Sky.Cinema.Select.uk" start="20260811001500 +0000" stop="20260811014500 +0000">
+    <title lang="en">10 Lives</title>
+    <desc lang="en">When Beckett the cat loses his ninth life, fate sets him on a journey of self-discovery. Animated comedy with Mo Gilligan. Sky Original.</desc>
+    <date>2024</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Animation</category>
+    <icon src="https://images.metadata.sky.com/pd-image/ca59f91d-406b-3855-b949-ff93862170cc/16-9" />
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="Sky.Cinema.Select.uk" start="20260811014500 +0000" stop="20260811032000 +0000">
+    <title lang="en">Fireheart</title>
+    <desc lang="en">Georgia has always dreamt of becoming a firefighter. Defying the rules of 1930s New York, she pretends to be a male fireman as an arsonist ignites Broadway's theatres.</desc>
+    <date>2022</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Animation</category>
+    <icon src="https://images.metadata.sky.com/pd-image/6098cedc-e08d-488c-8ba7-f1a26c839c13/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="Sky.Cinema.Select.uk" start="20260811032000 +0000" stop="20260811045000 +0000">
+    <title lang="en">The Pirates! In An Adventure...</title>
+    <desc lang="en">Pirate Captain has dreams of rising up the pirate ranks. Can he beat his rivals to be crowned Pirate of the Year? With Hugh Grant, Martin Freeman and Salma Hayek.</desc>
+    <date>2012</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Animation</category>
+    <icon src="https://images.metadata.sky.com/pd-image/24859a07-faf9-40f6-83ec-ff8fe241f850/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="Sky.Cinema.Select.uk" start="20260811045000 +0000" stop="20260811063000 +0000">
+    <title lang="en">Rebellious</title>
+    <desc lang="en">In this modern twist on a classic fairy tale, a princess is taken by an evil sorcerer. As her fiancé sets out to find her, she plots her daring escape.</desc>
+    <date>2024</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Animation</category>
+    <icon src="https://images.metadata.sky.com/pd-image/54a1b78b-2ecc-3128-950f-4aff17f7cc3e/16-9" />
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="Sky.Cinema.Select.uk" start="20260811063000 +0000" stop="20260811081000 +0000">
+    <title lang="en">The Spongebob Movie: Sponge Out of Water</title>
+    <desc lang="en">SpongeBob and the gang leap into action when a pirate steals the secret recipe for Krabby Patties. Family adventure. Flashing images.</desc>
+    <date>2015</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Family</category>
+    <icon src="https://images.metadata.sky.com/pd-image/4e3f3a6e-2847-42ab-8919-f765711fca81/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="Sky.Cinema.Select.uk" start="20260811081000 +0000" stop="20260811094500 +0000">
+    <title lang="en">Chicken Run</title>
+    <desc lang="en">Top animation from the makers of Wallace and Gromit. A tale of battery hens and freedom, with star voices including Mel Gibson.</desc>
+    <date>2000</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Family</category>
+    <icon src="https://images.metadata.sky.com/pd-image/fcd98f51-1deb-4d3c-8bf3-0f7e4dca13ab/16-9" />
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="Sky.Cinema.Select.uk" start="20260811094500 +0000" stop="20260811113000 +0000">
+    <title lang="en">Looney Tunes: The Day The...</title>
+    <desc lang="en">Porky Pig and Daffy Duck are Earth's only hope when facing the threat of alien invasion. Charming hand-drawn animation.</desc>
+    <date>2024</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Family</category>
+    <icon src="https://images.metadata.sky.com/pd-image/2dcdab9c-8257-452b-85ae-e63a082de832/16-9" />
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="Sky.Cinema.Select.uk" start="20260811113000 +0000" stop="20260811131500 +0000">
+    <title lang="en">Hotel Transylvania</title>
+    <desc lang="en">Hotel Transylvania is the perfect place for monsters to escape the human world, until an unwitting hitchhiker tries to check in. Animated fun with the voice of Adam Sandler.</desc>
+    <date>2012</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Animation</category>
+    <icon src="https://images.metadata.sky.com/pd-image/23b4e8f3-6f48-351c-8726-34309adbc339/16-9" />
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="Sky.Cinema.Select.uk" start="20260811131500 +0000" stop="20260811150000 +0000">
+    <title lang="en">The Ant Bully</title>
+    <desc lang="en">Shrunk by the ants he tormented, Lucas must learn to work with the insects, instead of against them. Bugs bite back in this animation from the director of Jimmy Neutron.</desc>
+    <date>2006</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Animation</category>
+    <icon src="https://images.metadata.sky.com/pd-image/85954fa8-4e34-4485-9d92-49779943a0a8/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="Sky.Cinema.Select.uk" start="20260811150000 +0000" stop="20260811163500 +0000">
+    <title lang="en">Hotel Transylvania 2</title>
+    <desc lang="en">Dracula recruits his friends to help bring out the monster in his half human, half vampire grandson. Animated sequel with the voices of Adam Sandler and Andy Samberg.</desc>
+    <date>2015</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Animation</category>
+    <icon src="https://images.metadata.sky.com/pd-image/0c047495-85d8-4680-9e4b-ad8fa4f625d9/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="Sky.Cinema.Select.uk" start="20260811163500 +0000" stop="20260811181000 +0000">
+    <title lang="en">The Amazing Maurice</title>
+    <desc lang="en">Cat Maurice comes up with a money-making scam when he meets a group of talking rats. Star-studded Sky Original animation with the voices of Hugh Laurie and Emilia Clarke.</desc>
+    <date>2022</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Animation</category>
+    <icon src="https://images.metadata.sky.com/pd-image/159d71e6-789d-4b09-9a28-1e9ff6d94945/16-9" />
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="Sky.Cinema.Select.uk" start="20260811181000 +0000" stop="20260811194000 +0000">
+    <title lang="en">Shaun The Sheep The Movie</title>
+    <desc lang="en">Shaun the Sheep has to head into the big city and rescue the Farmer when a mischievous plan gets out of control. Delightful Aardman animation.</desc>
+    <date>2014</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Animation</category>
+    <icon src="https://images.metadata.sky.com/pd-image/3cbae934-0d8e-36ae-806a-81184d2d8cbe/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="Sky.Cinema.Select.uk" start="20260811194000 +0000" stop="20260811210500 +0000">
+    <title lang="en">Antz</title>
+    <desc lang="en">Woody Allen leads the voice cast as a worker ant desperate to escape colony conformity and woo the beautiful princess. Sharon Stone also voices this animated adventure.</desc>
+    <date>1998</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Animation</category>
+    <icon src="https://images.metadata.sky.com/pd-image/688e0a3e-cfea-3abb-8601-5762108db285/16-9" />
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="Sky.Cinema.Select.uk" start="20260811210500 +0000" stop="20260811224000 +0000">
+    <title lang="en">Cloudy With A Chance Of Meatballs</title>
+    <desc lang="en">An inventor builds a machine that turns rain showers into food showers, but greed soon sends it spinning out of control. Delectable animation with the voice of Anna Faris.</desc>
+    <date>2009</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Animation</category>
+    <icon src="https://images.metadata.sky.com/pd-image/1542038d-5690-49f8-a3ee-6eb9d81c9f6f/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="Sky.Cinema.Select.uk" start="20260811224000 +0000" stop="20260812002000 +0000">
+    <title lang="en">Cloudy With A Chance Of Meatballs 2</title>
+    <desc lang="en">Chaos ensues when a scientist discovers his invention, which turns water into meals, is creating animals made of food. Flashing images.</desc>
+    <date>2013</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Animation</category>
+    <icon src="https://images.metadata.sky.com/pd-image/46522699-84e7-4b2f-9096-87c113752bf9/16-9" />
+    <rating system="UK">
+      <value>U</value>
     </rating>
   </programme>
   <programme channel="Sky.Thriller.HD.uk" start="20260807005500 +0000" stop="20260807030000 +0000">
@@ -20188,149 +20525,6 @@
       <value>3.5</value>
     </star-rating>
   </programme>
-  <programme channel="Sky.Family.HD.uk" start="20260807002500 +0000" stop="20260807023500 +0000">
-    <title lang="en">Annie</title>
-    <desc lang="en">Classic musical about a scrappy young orphan whose life changes overnight when she is taken in by a billionaire. Starring Carol Burnett and the late Albert Finney.</desc>
-    <date>1982</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Family</category>
-    <icon src="https://images.metadata.sky.com/pd-image/cf55dc98-4873-4715-b4e3-475faedc2e9a/16-9" />
-    <rating system="UK">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme channel="Sky.Family.HD.uk" start="20260807023500 +0000" stop="20260807041000 +0000">
-    <title lang="en">Babe</title>
-    <desc lang="en">Plucky piglet Babe discovers an unexpected talent for herding sheep which may just save him from becoming the Christmas dinner. Family favourite. Contains flashing images.</desc>
-    <date>1995</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Family</category>
-    <icon src="https://images.metadata.sky.com/pd-image/ea2914b7-94a6-485f-9b3f-cfbfb5620bf4/16-9" />
-    <rating system="UK">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="Sky.Family.HD.uk" start="20260807041000 +0000" stop="20260807054000 +0000">
-    <title lang="en">Cats &amp; Dogs</title>
-    <desc lang="en">Fur flies as the kung fu cats of power-hungry Mr Tinkles battle for world domination against a pack of canine commandos. Animal antics. Mild violence/flashing images.</desc>
-    <date>2001</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Family</category>
-    <icon src="https://images.metadata.sky.com/pd-image/8818f3c7-adbd-4479-a8f0-02e41641fa6f/16-9" />
-    <rating system="UK">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="Sky.Family.HD.uk" start="20260807054000 +0000" stop="20260807071500 +0000">
-    <title lang="en">Cats &amp; Dogs: The Revenge Of Kitty Galore</title>
-    <desc lang="en">With a feline superspy plotting world domination, cats and dogs must put their rivalries aside to defeat her. Family fun. Mild violence/flashing images.</desc>
-    <date>2010</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Family</category>
-    <icon src="https://images.metadata.sky.com/pd-image/8eaf7d57-bd2d-47ba-8474-4a6bb0d8792c/16-9" />
-    <rating system="UK">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme channel="Sky.Family.HD.uk" start="20260807071500 +0000" stop="20260807085500 +0000">
-    <title lang="en">The Spongebob Movie: Sponge Out of Water</title>
-    <desc lang="en">SpongeBob and the gang leap into action when a pirate steals the secret recipe for Krabby Patties. Family adventure. Flashing images.</desc>
-    <date>2015</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Family</category>
-    <icon src="https://images.metadata.sky.com/pd-image/4e3f3a6e-2847-42ab-8919-f765711fca81/16-9" />
-    <rating system="UK">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme channel="Sky.Family.HD.uk" start="20260807085500 +0000" stop="20260807102500 +0000">
-    <title lang="en">The Borrowers</title>
-    <desc lang="en">Fun comic adventure about a four-inch high family who fall foul of nasty lawyer John Goodman. Tom Felton - Draco Malfoy in the Harry Potter films - makes his acting debut.</desc>
-    <date>1997</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Family</category>
-    <icon src="https://images.metadata.sky.com/pd-image/64c86e37-fe92-478c-8c26-5cca01261c81/16-9" />
-    <rating system="UK">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme channel="Sky.Family.HD.uk" start="20260807102500 +0000" stop="20260807125000 +0000">
-    <title lang="en">Hook</title>
-    <desc lang="en">When Captain Hook kidnaps his kids, an adult Peter Pan returns to Neverland to save them. Adventure starring Robin Williams. Flashing images.</desc>
-    <date>1991</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Family</category>
-    <icon src="https://images.metadata.sky.com/pd-image/f7fb01cc-deac-488b-a155-ff08e6a8434e/16-9" />
-    <rating system="UK">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme channel="Sky.Family.HD.uk" start="20260807125000 +0000" stop="20260807150000 +0000">
-    <title lang="en">Ghostbusters: Afterlife</title>
-    <desc lang="en">Two kids discover their connection to the original Ghostbusters and their grandfather's legacy. Paul Rudd stars.</desc>
-    <date>2021</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Family</category>
-    <icon src="https://images.metadata.sky.com/pd-image/eefe7bee-e66a-4d83-ab45-f19087a0a51f/16-9" />
-    <rating system="UK">
-      <value>12</value>
-    </rating>
-  </programme>
-  <programme channel="Sky.Family.HD.uk" start="20260807150000 +0000" stop="20260807170000 +0000">
-    <title lang="en">The BFG</title>
-    <desc lang="en">Adaptation of the beloved Roald Dahl tale starring Mark Rylance as the lovable giant who befriends a headstrong young orphan. From Steven Spielberg.</desc>
-    <date>2016</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Family</category>
-    <icon src="https://images.metadata.sky.com/pd-image/14a13528-ddf4-477d-9cd9-aa15e33b8cef/16-9" />
-    <rating system="UK">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="Sky.Family.HD.uk" start="20260807170000 +0000" stop="20260807185500 +0000">
-    <title lang="en">E.T. The Extra-Terrestrial</title>
-    <desc lang="en">Steven Spielberg's hugely successful sci-fi drama about a young boy who makes friends with a stranded alien. With Drew Barrymore and Henry Thomas. Contains flashing images.</desc>
-    <date>1982</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Family</category>
-    <icon src="https://images.metadata.sky.com/pd-image/ff43ab83-53aa-4d11-973c-205ca006a906/16-9" />
-    <rating system="UK">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="Sky.Family.HD.uk" start="20260807185500 +0000" stop="20260807212000 +0000">
-    <title lang="en">Hook</title>
-    <desc lang="en">When Captain Hook kidnaps his kids, an adult Peter Pan returns to Neverland to save them. Adventure starring Robin Williams. Flashing images.</desc>
-    <date>1991</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Family</category>
-    <icon src="https://images.metadata.sky.com/pd-image/f7fb01cc-deac-488b-a155-ff08e6a8434e/16-9" />
-    <rating system="UK">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme channel="Sky.Family.HD.uk" start="20260807212000 +0000" stop="20260807233000 +0000">
-    <title lang="en">The Karate Kid</title>
-    <desc lang="en">New kid Daniel stands up to his bullies with the help of karate master Mr Miyagi in this family favourite. Starring Ralph Macchio and Pat Morita.</desc>
-    <date>1984</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Family</category>
-    <icon src="https://images.metadata.sky.com/pd-image/c4605c56-c27a-4fad-9f58-8ccc2bfff317/16-9" />
-    <rating system="UK">
-      <value>12</value>
-    </rating>
-  </programme>
-  <programme channel="Sky.Family.HD.uk" start="20260807233000 +0000" stop="20260808012500 +0000">
-    <title lang="en">The Karate Kid Part II</title>
-    <desc lang="en">High-kicking karate student Daniel and his mentor Mr Miyagi travel to Japan to settle an old score. Family action sequel with Pat Morita and Ralph Macchio.</desc>
-    <date>1986</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Family</category>
-    <icon src="https://images.metadata.sky.com/pd-image/a52288fd-3228-4b9e-9705-84a435a28e27/16-9" />
-    <rating system="UK">
-      <value>PG</value>
-    </rating>
-  </programme>
   <programme channel="Sky.Family.HD.uk" start="20260808012500 +0000" stop="20260808032000 +0000">
     <title lang="en">The Karate Kid Part III</title>
     <desc lang="en">Hothead Daniel dumps Mr Miyagi for a new coach. But without his ally, can the youngster defeat the toxic waste baron who is training an old enemy? Mild violence.</desc>
@@ -20765,98 +20959,158 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme channel="Sky.Cinema.Hits.HD.uk" start="20260807190000 +0000" stop="20260807211500 +0000">
-    <title lang="en">Jurassic World: Rebirth</title>
-    <desc lang="en">Profit-hungry pharmaceutical representative Martin Krebs contracts covert operations specialist Zora Bennett to assemble a crack team to infiltrate a forbidden island and collect the DNA of three key dinosaur species. Fantasy adventure, starring Scarlett Johansson, Mahershala Ali and Jonathan Bailey.</desc>
-    <credits>
-      <actor>Scarlett Johansson</actor>
-      <actor>Jonathan Bailey</actor>
-      <actor>Mahershala Ali</actor>
-      <actor>Rupert Friend</actor>
-      <actor>Manuel Garcia-Rulfo</actor>
-      <actor>Gareth Edwards</actor>
-      <actor>David Koepp</actor>
-    </credits>
-    <category lang="en">Film</category>
-    <icon src="https://tv.assets.pressassociation.io/aae7c427-a1df-5e8d-a1da-012ec4e36d3f.jpg" />
+  <programme channel="Sky.Family.HD.uk" start="20260811000000 +0000" stop="20260811015500 +0000">
+    <title lang="en">Sonic The Hedgehog 3</title>
+    <desc lang="en">Sonic, Knuckles and Tails reunite to battle Shadow, a mysterious new enemy with powers unlike anything they've faced before.</desc>
+    <date>2024</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Family</category>
+    <icon src="https://images.metadata.sky.com/pd-image/3c662f01-3dec-449b-a9bf-4e35538b41fa/16-9" />
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
   </programme>
-  <programme channel="Sky.Cinema.Hits.HD.uk" start="20260807211500 +0000" stop="20260807231000 +0000">
-    <title lang="en">Venom</title>
-    <desc lang="en">While exploring space for new worlds, a probe belonging to the Life Foundation discovers a comet covered in symbiotic lifeforms. Following the probe's return to Earth, journalist Eddie Brock investigates sinister trials being carried out by the corporation, and after being infected by an alien symbiote, develops superhuman strength and power. Fantasy adventure, starring Tom Hardy and Riz Ahmed.</desc>
-    <credits>
-      <actor>Tom Hardy</actor>
-      <actor>Riz Ahmed</actor>
-      <actor>Michelle Williams</actor>
-      <actor>Reid Scott</actor>
-      <actor>Jenny Slate</actor>
-      <actor>Scott Haze</actor>
-      <actor>Melora Walters</actor>
-      <actor>Peggy Lu</actor>
-    </credits>
-    <category lang="en">Film</category>
-    <icon src="https://tv.assets.pressassociation.io/67cb6231-236f-5b4f-b6a1-90e1474396ec.jpg" />
+  <programme channel="Sky.Family.HD.uk" start="20260811015500 +0000" stop="20260811033500 +0000">
+    <title lang="en">Cats &amp; Dogs</title>
+    <desc lang="en">Fur flies as the kung fu cats of power-hungry Mr Tinkles battle for world domination against a pack of canine commandos. Animal antics. Mild violence/flashing images.</desc>
+    <date>2001</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Family</category>
+    <icon src="https://images.metadata.sky.com/pd-image/8818f3c7-adbd-4479-a8f0-02e41641fa6f/16-9" />
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
   </programme>
-  <programme channel="Sky.Cinema.Hits.HD.uk" start="20260807231000 +0000" stop="20260808010500 +0000">
-    <title lang="en">Venom: The Last Dance</title>
-    <desc lang="en">Journalist Eddie Brock and symbiote partner-in-crime Venom are lying low in Mexico City, on the run for the apparent murder of detective Patrick Mulligan. The cop and his bonded entity, Toxin, are actually alive at the Imperium symbiote containment programme, beneath the Area 51 US Air Force facility in the Nevada desert. Knull, the symbiotes' immortal creator, dispatches hunters to locate Venom's hidden power source, the Codex, which can set Knull free to terrorise the multiverse. Fantasy adventure, starring Tom Hardy, Chiwetel Ejiofor, Stephen Graham and Juno Temple.</desc>
-    <credits>
-      <actor>Tom Hardy</actor>
-      <actor>Chiwetel Ejiofor</actor>
-      <actor>Juno Temple</actor>
-      <actor>Stephen Graham</actor>
-      <actor>Rhys Ifans</actor>
-      <actor>Peggy Lu</actor>
-      <actor>Kelly Marcel</actor>
-    </credits>
-    <category lang="en">Film</category>
-    <icon src="https://tv.assets.pressassociation.io/65a5c68f-79bc-5815-9707-92818791084f.jpg" />
+  <programme channel="Sky.Family.HD.uk" start="20260811033500 +0000" stop="20260811050000 +0000">
+    <title lang="en">Cats &amp; Dogs: The Revenge Of Kitty Galore</title>
+    <desc lang="en">With a feline superspy plotting world domination, cats and dogs must put their rivalries aside to defeat her. Family fun. Mild violence/flashing images.</desc>
+    <date>2010</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Family</category>
+    <icon src="https://images.metadata.sky.com/pd-image/8eaf7d57-bd2d-47ba-8474-4a6bb0d8792c/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
   </programme>
-  <programme channel="Sky.Cinema.Hits.HD.uk" start="20260808010500 +0000" stop="20260808025500 +0000">
-    <title lang="en">Clash of the Titans</title>
-    <desc lang="en">The son of the Greek god Zeus is raised by humans and grows up to reject his immortal heritage in anger at the gods' cruel treatment of humans. He sets out on a quest to find a means to kill the evil lord of the underworld in revenge for his father's death, facing all manner of strange creatures. Mythological adventure, with Sam Worthington, Liam Neeson, Ralph Fiennes and Gemma Arterton.</desc>
-    <credits>
-      <actor>Sam Worthington</actor>
-      <actor>Liam Neeson</actor>
-      <actor>Ralph Fiennes</actor>
-      <actor>Gemma Arterton</actor>
-      <actor>Pete Postlethwaite</actor>
-      <actor>Jason Flemyng</actor>
-      <actor>Mads Mikkelsen</actor>
-      <actor>Alexa Davalos</actor>
-    </credits>
-    <category lang="en">Film</category>
-    <icon src="https://tv.assets.pressassociation.io/a9480fe5-c26a-5740-a234-ceb7bc51fb37.jpg" />
+  <programme channel="Sky.Family.HD.uk" start="20260811050000 +0000" stop="20260811053000 +0000">
+    <title lang="en">The Cinema List: Family Favourites</title>
+    <desc lang="en">Discover some of the very best Sky Originals to watch with the whole family, from Monster Family to The Amazing Maurice.</desc>
+    <category lang="en">Movie</category>
+    <category lang="en">Factual</category>
+    <icon src="https://images.metadata.sky.com/pd-image/4cc98f8a-8d12-3a66-ae11-27c7f9d5a518/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
   </programme>
-  <programme channel="Sky.Cinema.Hits.HD.uk" start="20260808025500 +0000" stop="20260808044000 +0000">
-    <title lang="en">Wrath of the Titans</title>
-    <desc lang="en">The Greek god Zeus is betrayed by his fellow immortals, who intend to release the monstrous race of titans they banished to the underworld. His Demi-God son Perseus must rescue his father and protect the human race from the terrifying creatures that have been unleashed on the world. Fantasy adventure sequel, starring Sam Worthington, Liam Neeson and Ralph Fiennes.</desc>
-    <credits>
-      <actor>Sam Worthington</actor>
-      <actor>Liam Neeson</actor>
-      <actor>Ralph Fiennes</actor>
-      <actor>Rosamund Pike</actor>
-      <actor>Bill Nighy</actor>
-      <actor>Edgar Ramirez</actor>
-      <actor>Danny Huston</actor>
-      <actor>Toby Kebbell</actor>
-    </credits>
-    <category lang="en">Film</category>
-    <icon src="https://tv.assets.pressassociation.io/4d23af7a-57a5-56ca-9ca5-56bfe8b9c8eb.jpg" />
+  <programme channel="Sky.Family.HD.uk" start="20260811053000 +0000" stop="20260811074000 +0000">
+    <title lang="en">Annie</title>
+    <desc lang="en">Classic musical about a scrappy young orphan whose life changes overnight when she is taken in by a billionaire. Starring Carol Burnett and the late Albert Finney.</desc>
+    <date>1982</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Family</category>
+    <icon src="https://images.metadata.sky.com/pd-image/cf55dc98-4873-4715-b4e3-475faedc2e9a/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
   </programme>
-  <programme channel="Sky.Cinema.Hits.HD.uk" start="20260808044000 +0000" stop="20260808065000 +0000">
-    <title lang="en">Kraven the Hunter</title>
-    <desc lang="en">Conservationist Sergei Kravinoff's complex relationship with his ruthless father, Nikolai, sets him on a path of vengeance with brutal consequences, motivating him to become Kraven, the world's most feared hunter. Fantasy adventure, starring Aaron Taylor-Johnson, Russell Crowe and Ariana Debose.</desc>
-    <credits>
-      <actor>Aaron Taylor-Johnson</actor>
-      <actor>Russell Crowe</actor>
-      <actor>Ariana DeBose</actor>
-      <actor>Fred Hechinger</actor>
-      <actor>Alessandro Nivola</actor>
-      <actor>Christopher Abbott</actor>
-      <actor>JC Chandor</actor>
-    </credits>
-    <category lang="en">Film</category>
-    <icon src="https://tv.assets.pressassociation.io/ad37f371-bde3-5dd8-8d72-0d9e0482aa84.jpg" />
+  <programme channel="Sky.Family.HD.uk" start="20260811074000 +0000" stop="20260811091000 +0000">
+    <title lang="en">Look Who's Talking Too</title>
+    <desc lang="en">Roseanne Barr voices the new addition to Kirstie Alley and John Travolta's family, and is just as opinionated as her toddler brother, voiced by Bruce Willis. Comedy sequel.</desc>
+    <date>1990</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Family</category>
+    <icon src="https://images.metadata.sky.com/pd-image/2457bb3f-0f03-49e6-91ed-06c36eb246e7/16-9" />
+    <rating system="UK">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme channel="Sky.Family.HD.uk" start="20260811091000 +0000" stop="20260811110000 +0000">
+    <title lang="en">The Smurfs</title>
+    <desc lang="en">The little blue critters find themselves hiding out in New York when evil wizard Gargamel chases them out of their village. Family fun. Flashing images.</desc>
+    <date>2011</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Family</category>
+    <icon src="https://images.metadata.sky.com/pd-image/5fb4dd34-15c6-4971-b5fb-36b084099fed/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="Sky.Family.HD.uk" start="20260811110000 +0000" stop="20260811125500 +0000">
+    <title lang="en">The Smurfs 2</title>
+    <desc lang="en">Evil wizard Gargamel kidnaps Smurfette so she can turn his mischievous Smurf-like creatures into real Smurfs. Contains flashing images.</desc>
+    <date>2013</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Family</category>
+    <icon src="https://images.metadata.sky.com/pd-image/459fd351-6db9-4002-b507-50b67a903cdb/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="Sky.Family.HD.uk" start="20260811125500 +0000" stop="20260811143000 +0000">
+    <title lang="en">Yogi Bear</title>
+    <desc lang="en">Yogi and Boo-Boo must save Jellystone Park in this live action version of the classic cartoon. Dan Aykroyd and Justin Timberlake voice the misbehaving bears.(78mins).</desc>
+    <date>2010</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Family</category>
+    <icon src="https://images.metadata.sky.com/pd-image/db48d030-0e37-4996-b916-af504ff81c21/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="Sky.Family.HD.uk" start="20260811143000 +0000" stop="20260811170000 +0000">
+    <title lang="en">Wicked: For Good</title>
+    <desc lang="en">Elphaba, the Wicked Witch of the West, must reunite with Glinda the Good to transform herself - and Oz - for good.</desc>
+    <date>2025</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Family</category>
+    <icon src="https://images.metadata.sky.com/pd-image/f888cca3-ef8d-4ecd-b909-6d3eb8b15ebc/16-9" />
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="Sky.Family.HD.uk" start="20260811170000 +0000" stop="20260811191000 +0000">
+    <title lang="en">How To Train Your Dragon</title>
+    <desc lang="en">An unlikely friendship holds the key to Vikings and dragons forging a new future together as an ancient threat rears its head.</desc>
+    <date>2025</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Family</category>
+    <icon src="https://images.metadata.sky.com/pd-image/dc7d89b0-2b62-4099-bdaa-71c243020abb/16-9" />
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="Sky.Family.HD.uk" start="20260811191000 +0000" stop="20260811210500 +0000">
+    <title lang="en">The Golden Compass</title>
+    <desc lang="en">In a parallel universe, a young girl called Lyra comes into possession of a magical compass that is the beginning of an epic quest to save her friends and her world.</desc>
+    <date>2007</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Family</category>
+    <icon src="https://images.metadata.sky.com/pd-image/948ae63c-f83c-42ea-9d36-57fd3aa7b676/16-9" />
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="Sky.Family.HD.uk" start="20260811210500 +0000" stop="20260811224500 +0000">
+    <title lang="en">Look Who's Talking Now</title>
+    <desc lang="en">Danny DeVito and Diane Keaton voice the new pets of couple Kirstie Alley and John Travolta, and their take on the world makes for some eye-opening insights. Sex references.</desc>
+    <date>1993</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Family</category>
+    <icon src="https://images.metadata.sky.com/pd-image/d32cfb40-b458-4640-9132-43f1fb86f75f/16-9" />
+    <rating system="UK">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme channel="Sky.Family.HD.uk" start="20260811224500 +0000" stop="20260812003000 +0000">
+    <title lang="en">A Dog's Purpose</title>
+    <desc lang="en">Over the course of several lifetimes a loveable dog tries to figure out what it means to be man's best friend. Family drama with Dennis Quaid.</desc>
+    <date>2017</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Family</category>
+    <icon src="https://images.metadata.sky.com/pd-image/e73d60db-9d64-425c-a144-309f64b19692/16-9" />
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
   </programme>
   <programme channel="Sky.Cinema.Hits.HD.uk" start="20260808065000 +0000" stop="20260808085000 +0000">
     <title lang="en">Venom</title>
@@ -21201,7 +21455,7 @@
       <actor>Peter Boyle</actor>
     </credits>
     <category lang="en">Film</category>
-    <icon src="https://tv.assets.pressassociation.io/1825f1c4-2a98-5684-a70a-58543c02c3f6.jpg" />
+    <icon src="https://tv.assets.pressassociation.io/137fd1ac-842e-5d43-9b59-bace4b0fd762.jpg" />
   </programme>
   <programme channel="Sky.Cinema.Hits.HD.uk" start="20260810055500 +0000" stop="20260810061000 +0000">
     <title lang="en">The Cinema List: Trapped</title>
@@ -21368,6 +21622,214 @@
     </credits>
     <category lang="en">Film</category>
     <icon src="https://tv.assets.pressassociation.io/a84c2181-055f-5340-b23d-11d3330ba213.jpg" />
+  </programme>
+  <programme channel="Sky.Cinema.Hits.HD.uk" start="20260811004000 +0000" stop="20260811022500 +0000">
+    <title lang="en">The Italian Job</title>
+    <desc lang="en">A crook assembles a motley gang to steal £4million in gold bullion from an Italian armoured car, which brings Turin to a standstill and enables the robbers to make a quick getaway in a fleet of Minis - but they end up falling foul of the Mafia along the way. Crime comedy, starring Michael Caine, Noel Coward, Benny Hill, Tony Beckley and John Le Mesurier.</desc>
+    <credits>
+      <actor>Michael Caine</actor>
+      <actor>Noel Coward</actor>
+      <actor>Benny Hill</actor>
+      <actor>Tony Beckley</actor>
+      <actor>John Le Mesurier</actor>
+      <actor>Raf Vallone</actor>
+      <actor>Maggie Blye</actor>
+      <actor>Irene Handl</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="https://tv.assets.pressassociation.io/f04463f6-aeec-5271-b07b-55a3629b188d.jpg" />
+  </programme>
+  <programme channel="Sky.Cinema.Hits.HD.uk" start="20260811022500 +0000" stop="20260811042000 +0000">
+    <title lang="en">The Italian Job</title>
+    <desc lang="en">A crook double-crosses his partners in crime, a betrayal that leaves their friend and mentor dead. One year later, they regroup and come up with a daring plan to exact revenge on the traitor and reclaim their ill-gotten gains. Crime thriller inspired by the 1969 movie, starring Mark Wahlberg, Charlize Theron, Edward Norton, Seth Green and Donald Sutherland.</desc>
+    <credits>
+      <actor>Mark Wahlberg</actor>
+      <actor>Charlize Theron</actor>
+      <actor>Edward Norton</actor>
+      <actor>Seth Green</actor>
+      <actor>Donald Sutherland</actor>
+      <actor>Mos Def</actor>
+      <actor>Franky G</actor>
+      <actor>Jason Statham</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="https://tv.assets.pressassociation.io/becc94a0-e6ec-564f-984d-944542de25ed.jpg" />
+  </programme>
+  <programme channel="Sky.Cinema.Hits.HD.uk" start="20260811042000 +0000" stop="20260811062000 +0000">
+    <title lang="en">Ghostbusters</title>
+    <desc lang="en">When a series of supernatural disturbances occurs in New York City, two experts in the paranormal investigate, joined by a brilliant inventor who has created an array of ghost-hunting gadgets and a public transport worker whose knowledge of the city provides vital clues to the sinister cause of the ghostly activity. Reboot of the 1980s comedy franchise, starring Kristen Wiig, Melissa McCarthy, Kate McKinnon, Leslie Jones and Chris Hemsworth.</desc>
+    <credits>
+      <actor>Kristen Wiig</actor>
+      <actor>Melissa McCarthy</actor>
+      <actor>Kate McKinnon</actor>
+      <actor>Leslie Jones</actor>
+      <actor>Chris Hemsworth</actor>
+      <actor>Charles Dance</actor>
+      <actor>Neil Casey</actor>
+      <actor>Bill Murray</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="https://tv.assets.pressassociation.io/8777244a-35a2-5f7b-8dc3-8323d155ff08.jpg" />
+  </programme>
+  <programme channel="Sky.Cinema.Hits.HD.uk" start="20260811062000 +0000" stop="20260811080000 +0000">
+    <title lang="en">Police Academy</title>
+    <desc lang="en">An American police college lowers its entrance requirements in the hope of attracting new recruits, and in response, assorted dubious candidates turn up for enrolment. A short-tempered instructor is determined to weed out the bad apples, but a riot provides the clueless cops with a chance to prove their worth. Comedy, starring Steve Guttenberg, Kim Cattrall, Bubba Smith and GW Bailey.</desc>
+    <credits>
+      <actor>Steve Guttenberg</actor>
+      <actor>Kim Cattrall</actor>
+      <actor>Bubba Smith</actor>
+      <actor>GW Bailey</actor>
+      <actor>Donovan Scott</actor>
+      <actor>George Gaynes</actor>
+      <actor>David Graf</actor>
+      <actor>Andrew Rubin</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="https://tv.assets.pressassociation.io/7541d823-8926-5b94-b0ce-ac0c3f0f49a1.jpg" />
+  </programme>
+  <programme channel="Sky.Cinema.Hits.HD.uk" start="20260811080000 +0000" stop="20260811094000 +0000">
+    <title lang="en">Police Academy 2: Their First Assignment</title>
+    <desc lang="en">America's most inept cops graduate and are let loose on the streets - under the command of an unscrupulous lieutenant whose promotion depends on their failure. Fortunately for him, their unique brand of policing actually leads to an increase in the crime rate. Comedy sequel, starring Steve Guttenberg, Bubba Smith, David Graf and Michael Winslow.</desc>
+    <credits>
+      <actor>Steve Guttenberg</actor>
+      <actor>Bubba Smith</actor>
+      <actor>David Graf</actor>
+      <actor>Michael Winslow</actor>
+      <actor>Bruce Mahler</actor>
+      <actor>Marion Ramsey</actor>
+      <actor>Colleen Camp</actor>
+      <actor>Howard Hesseman</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="https://tv.assets.pressassociation.io/bf6aae9f-ac24-509f-9763-0c24a89a4b01.jpg" />
+  </programme>
+  <programme channel="Sky.Cinema.Hits.HD.uk" start="20260811094000 +0000" stop="20260811112000 +0000">
+    <title lang="en">Police Academy 3: Back in Training</title>
+    <desc lang="en">Facing closure from cutbacks in public spending and competition from a more successful academy, the police training school calls on its bungling graduates to act as instructors and make good officers out of a bunch of new recruits even more incompetent than they are. Comedy sequel, starring Steve Guttenberg, Bubba Smith, Michael Winslow and Art Metrano.</desc>
+    <credits>
+      <actor>Steve Guttenberg</actor>
+      <actor>Bubba Smith</actor>
+      <actor>Michael Winslow</actor>
+      <actor>Art Metrano</actor>
+      <actor>David Graf</actor>
+      <actor>Marion Ramsey</actor>
+      <actor>Leslie Easterbrook</actor>
+      <actor>Tim Kazurinsky</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="https://tv.assets.pressassociation.io/01a3aa72-8bb9-5730-b725-7436171192f6.jpg" />
+  </programme>
+  <programme channel="Sky.Cinema.Hits.HD.uk" start="20260811112000 +0000" stop="20260811132000 +0000">
+    <title lang="en">Beverly Hills Cop</title>
+    <desc lang="en">Fast-talking Detroit cop Axel Foley heads for Los Angeles after an old friend is murdered before his eyes. His search for the killers leads him into conflict with a seemingly untouchable drug kingpin, but he also has to contend with the local force, who do not want him taking matters into his own hands. Comedy thriller, starring Eddie Murphy, Judge Reinhold, Ronny Cox, John Ashton and Steven Berkoff.</desc>
+    <credits>
+      <actor>Eddie Murphy</actor>
+      <actor>Judge Reinhold</actor>
+      <actor>Ronny Cox</actor>
+      <actor>John Ashton</actor>
+      <actor>Steven Berkoff</actor>
+      <actor>Lisa Eilbacher</actor>
+      <actor>James Russo</actor>
+      <actor>Bronson Pinchot</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="https://tv.assets.pressassociation.io/e083b38d-bc98-57a4-ac82-9b2bff2ae906.jpg" />
+  </programme>
+  <programme channel="Sky.Cinema.Hits.HD.uk" start="20260811132000 +0000" stop="20260811151000 +0000">
+    <title lang="en">Beverly Hills Cop II</title>
+    <desc lang="en">Wisecracking Detroit detective Axel Foley returns to Los Angeles to investigate the shooting of an old friend, and uncovers a connection with a spate of violent robberies carried out by a criminal who leaves a mysterious calling card. Comedy thriller sequel, starring Eddie Murphy, Judge Reinhold, John Ashton, Ronny Cox and Brigitte Nielsen.</desc>
+    <credits>
+      <actor>Eddie Murphy</actor>
+      <actor>Judge Reinhold</actor>
+      <actor>John Ashton</actor>
+      <actor>Brigitte Nielsen</actor>
+      <actor>Jürgen Prochnow</actor>
+      <actor>Ronny Cox</actor>
+      <actor>Allen Garfield</actor>
+      <actor>Dean Stockwell</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="https://tv.assets.pressassociation.io/5753d2f0-9f33-5f24-a900-7ec2f80d2dda.jpg" />
+  </programme>
+  <programme channel="Sky.Cinema.Hits.HD.uk" start="20260811151000 +0000" stop="20260811170500 +0000">
+    <title lang="en">Beverly Hills Cop III</title>
+    <desc lang="en">Maverick cop Axel Foley returns to Los Angeles when an investigation into a colleague's murder leads him to a Hollywood theme park. He enlists the help of old ally Rosewood to prove the resort is a cover for a major counterfeiting ring connected to a terrorist conspiracy. Comedy adventure sequel, starring Eddie Murphy, Judge Reinhold, Theresa Randle and Bronson Pinchot.</desc>
+    <credits>
+      <actor>Eddie Murphy</actor>
+      <actor>Judge Reinhold</actor>
+      <actor>Theresa Randle</actor>
+      <actor>Bronson Pinchot</actor>
+      <actor>Joey Travolta</actor>
+      <actor>Hector Elizondo</actor>
+      <actor>Timothy Carhart</actor>
+      <actor>Stephen McHattie</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="https://tv.assets.pressassociation.io/a84c2181-055f-5340-b23d-11d3330ba213.jpg" />
+  </programme>
+  <programme channel="Sky.Cinema.Hits.HD.uk" start="20260811170500 +0000" stop="20260811190000 +0000">
+    <title lang="en">Ghostbusters</title>
+    <desc lang="en">Three eccentric scientists put their hi-tech gadgetry and knowledge of the paranormal to money-making use by setting up in business as freelance ghost catchers. A musician calls them in to investigate when she sees strange creatures in her kitchen, only to end up possessed. As the spook-hunting team members deal with an attempt to shut their operation down, they discover an evil demonic entity is being summoned into existence and it falls to them to stop this creature from destroying the world. Supernatural comedy adventure, starring Bill Murray, Dan Aykroyd, Harold Ramis, Sigourney Weaver, Ernie Hudson and Rick Moranis.</desc>
+    <credits>
+      <actor>Bill Murray</actor>
+      <actor>Dan Aykroyd</actor>
+      <actor>Harold Ramis</actor>
+      <actor>Sigourney Weaver</actor>
+      <actor>Ernie Hudson</actor>
+      <actor>Rick Moranis</actor>
+      <actor>Annie Potts</actor>
+      <actor>William Atherton</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="https://tv.assets.pressassociation.io/da1cf37f-4f4a-52ab-946a-690c2e0d3209.jpg" />
+  </programme>
+  <programme channel="Sky.Cinema.Hits.HD.uk" start="20260811190000 +0000" stop="20260811205000 +0000">
+    <title lang="en">Ghostbusters II</title>
+    <desc lang="en">The eccentric spectre-hunters reunite to save New York from a massive river of slime generated by the citizens' negativity and nasty thoughts. Meanwhile, the spirit of a 16th-century tyrant tries to return to the land of the living by possessing the body of a toddler. Sequel to the supernatural comedy, starring Bill Murray, Sigourney Weaver, Dan Aykroyd, Harold Ramis, Rick Moranis and Ernie Hudson.</desc>
+    <credits>
+      <actor>Bill Murray</actor>
+      <actor>Dan Aykroyd</actor>
+      <actor>Sigourney Weaver</actor>
+      <actor>Harold Ramis</actor>
+      <actor>Rick Moranis</actor>
+      <actor>Ernie Hudson</actor>
+      <actor>Peter MacNicol</actor>
+      <actor>Annie Potts</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="https://tv.assets.pressassociation.io/ad52c587-8a62-5d23-bd62-8bfe225beb7e.jpg" />
+  </programme>
+  <programme channel="Sky.Cinema.Hits.HD.uk" start="20260811205000 +0000" stop="20260811225000 +0000">
+    <title lang="en">Ghostbusters</title>
+    <desc lang="en">When a series of supernatural disturbances occurs in New York City, two experts in the paranormal investigate, joined by a brilliant inventor who has created an array of ghost-hunting gadgets and a public transport worker whose knowledge of the city provides vital clues to the sinister cause of the ghostly activity. Reboot of the 1980s comedy franchise, starring Kristen Wiig, Melissa McCarthy, Kate McKinnon, Leslie Jones and Chris Hemsworth.</desc>
+    <credits>
+      <actor>Kristen Wiig</actor>
+      <actor>Melissa McCarthy</actor>
+      <actor>Kate McKinnon</actor>
+      <actor>Leslie Jones</actor>
+      <actor>Chris Hemsworth</actor>
+      <actor>Charles Dance</actor>
+      <actor>Neil Casey</actor>
+      <actor>Bill Murray</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="https://tv.assets.pressassociation.io/8777244a-35a2-5f7b-8dc3-8323d155ff08.jpg" />
+  </programme>
+  <programme channel="Sky.Cinema.Hits.HD.uk" start="20260811225000 +0000" stop="20260812005500 +0000">
+    <title lang="en">Ghostbusters: Afterlife</title>
+    <desc lang="en">When a single mum and her two kids arrive in a small town, they begin to discover their connection to the original Ghostbusters and the secret legacy their grandfather Egon Spengler left behind. Supernatural comedy sequel, directed by Jason Reitman and starring Carrie Coon, Paul Rudd, Finn Wolfhard and Mckenna Grace, with cameo appearances by Bill Murray, Dan Aykroyd, Ernie Hudson, Annie Potts and Sigourney Weaver.</desc>
+    <credits>
+      <actor>Paul Rudd</actor>
+      <actor>Carrie Coon</actor>
+      <actor>Finn Wolfhard</actor>
+      <actor>Mckenna Grace</actor>
+      <actor>Bill Murray</actor>
+      <actor>Dan Aykroyd</actor>
+      <actor>Ernie Hudson</actor>
+      <actor>Annie Potts</actor>
+    </credits>
+    <category lang="en">Film</category>
+    <icon src="https://tv.assets.pressassociation.io/48c97bfa-8b21-57da-961e-a8441854c53c.jpg" />
   </programme>
   <channel id="HBO.East.us2">
     <icon src="http://dtil.tmsimg.com/assets/s19548_ll_h15_aa.png?w=360&amp;h=270" />
