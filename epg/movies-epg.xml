@@ -1,27 +1,21 @@
 <?xml version='1.0' encoding='utf-8'?>
-<tv><channel id="Film4.HD.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4044.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4044.png" />
-    <url>http://www.sky.com</url>
-    <display-name lang="en">Film4 HD</display-name>
-  </channel>
-  <channel id="Sky.Cinema.Comedy.uk">
-    <icon src="https://tv.assets.pressassociation.io/46d7f00e-3781-5a71-b01d-2585e824852e.png" />
-    <icon src="https://tv.assets.pressassociation.io/46d7f00e-3781-5a71-b01d-2585e824852e.png" />
-    <url>http://www.tvguide.co.uk</url>
-    <display-name lang="en">Sky Cinema Comedy</display-name>
-  </channel>
-  <channel id="GREAT!.movies.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3709.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3709.png" />
-    <url>http://www.sky.com</url>
-    <display-name lang="en">GREAT! movies</display-name>
-  </channel>
-  <channel id="SkyValentineHD.uk">
+<tv><channel id="Sky.Cinema.Select.uk">
     <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4020.png" />
     <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4020.png" />
     <url>http://www.sky.com</url>
-    <display-name lang="en">SkyValentineHD</display-name>
+    <display-name lang="en">Sky Cinema Select</display-name>
+  </channel>
+  <channel id="Sky.Greats.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1815.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1815.png" />
+    <url>http://www.sky.com</url>
+    <display-name lang="en">Sky Greats</display-name>
+  </channel>
+  <channel id="Sky.Premiere.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1409.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1409.png" />
+    <url>http://www.sky.com</url>
+    <display-name lang="en">Sky Premiere</display-name>
   </channel>
   <channel id="SkyPremiereHD.uk">
     <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4021.png" />
@@ -29,11 +23,27 @@
     <url>http://www.sky.com</url>
     <display-name lang="en">SkyPremiereHD</display-name>
   </channel>
-  <channel id="SONY.MAX.2.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb5431.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb5431.png" />
+  <channel id="GREAT!.movies.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3709.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3709.png" />
     <url>http://www.sky.com</url>
-    <display-name lang="en">SONY MAX 2</display-name>
+    <display-name lang="en">GREAT! movies</display-name>
+  </channel>
+  <channel id="Movies24+.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4421.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4421.png" />
+    <url>http://www.sky.com</url>
+    <display-name lang="en">Movies24+</display-name>
+  </channel>
+  <channel id="Sky.Action.HD.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4014.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4014.png" />
+    <url>http://www.sky.com</url>
+    <display-name lang="en">Sky Action HD</display-name>
+  </channel>
+  <channel id="Legend.uk">
+    <url>http://www.sky.com</url>
+    <display-name lang="en">Legend</display-name>
   </channel>
   <channel id="GREAT!.movies+1.uk">
     <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3771.png" />
@@ -41,53 +51,23 @@
     <url>http://www.sky.com</url>
     <display-name lang="en">GREAT! movies+1</display-name>
   </channel>
-  <channel id="TalkingPictures.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb5252.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb5252.png" />
+  <channel id="Sky.Family.HD.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4018.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4018.png" />
     <url>http://www.sky.com</url>
-    <display-name lang="en">TalkingPictures</display-name>
+    <display-name lang="en">Sky Family HD</display-name>
   </channel>
-  <channel id="Sky.Action.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1001.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1001.png" />
+  <channel id="Film4.HD.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4044.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4044.png" />
     <url>http://www.sky.com</url>
-    <display-name lang="en">Sky Action</display-name>
-  </channel>
-  <channel id="5ACTION.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1036.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1036.png" />
-    <url>http://www.sky.com</url>
-    <display-name lang="en">5ACTION</display-name>
+    <display-name lang="en">Film4 HD</display-name>
   </channel>
   <channel id="SkyAdventureHD.uk">
     <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4018.png" />
     <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4018.png" />
     <url>http://www.sky.com</url>
     <display-name lang="en">SkyAdventureHD</display-name>
-  </channel>
-  <channel id="Sky.Adventure.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1808.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1808.png" />
-    <url>http://www.sky.com</url>
-    <display-name lang="en">Sky Adventure</display-name>
-  </channel>
-  <channel id="Legend.Xtra+1.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4502.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4502.png" />
-    <url>http://www.sky.com</url>
-    <display-name lang="en">Legend Xtra+1</display-name>
-  </channel>
-  <channel id="Sky.Greats.HD.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4015.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4015.png" />
-    <url>http://www.sky.com</url>
-    <display-name lang="en">Sky Greats HD</display-name>
-  </channel>
-  <channel id="Sky.Sci-Fi.HD.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4074.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4074.png" />
-    <url>http://www.sky.com</url>
-    <display-name lang="en">Sky Sci-Fi HD</display-name>
   </channel>
   <channel id="SONY.MAX.HD.uk">
     <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4046.png" />
@@ -101,53 +81,41 @@
     <url>http://www.sky.com</url>
     <display-name lang="en">Sky ScFi/HorHD</display-name>
   </channel>
-  <channel id="Movies24.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4420.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4420.png" />
-    <url>http://www.sky.com</url>
-    <display-name lang="en">Movies24</display-name>
+  <channel id="Sky.Cinema.Comedy.uk">
+    <icon src="https://tv.assets.pressassociation.io/46d7f00e-3781-5a71-b01d-2585e824852e.png" />
+    <icon src="https://tv.assets.pressassociation.io/46d7f00e-3781-5a71-b01d-2585e824852e.png" />
+    <url>http://www.tvguide.co.uk</url>
+    <display-name lang="en">Sky Cinema Comedy</display-name>
   </channel>
-  <channel id="Sky.Action.HD.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4014.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4014.png" />
-    <url>http://www.sky.com</url>
-    <display-name lang="en">Sky Action HD</display-name>
-  </channel>
-  <channel id="Sky.Cinema.Select.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4020.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4020.png" />
-    <url>http://www.sky.com</url>
-    <display-name lang="en">Sky Cinema Select</display-name>
-  </channel>
-  <channel id="GREAT!.romance.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3643.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3643.png" />
-    <url>http://www.sky.com</url>
-    <display-name lang="en">GREAT! romance</display-name>
-  </channel>
-  <channel id="Sky.Premiere.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1409.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1409.png" />
-    <url>http://www.sky.com</url>
-    <display-name lang="en">Sky Premiere</display-name>
-  </channel>
-  <channel id="Sky.Family.HD.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4018.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4018.png" />
-    <url>http://www.sky.com</url>
-    <display-name lang="en">Sky Family HD</display-name>
-  </channel>
-  <channel id="Sky.Greats.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1815.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1815.png" />
-    <url>http://www.sky.com</url>
-    <display-name lang="en">Sky Greats</display-name>
+  <channel id="Sky.Cinema.Hits.HD.uk">
+    <icon src="https://cdn.tv-guide.future.sensi.link/images/channel/1be50627-1688-54a7-a314-dc256342c67a/logo.png" />
+    <icon src="https://cdn.tv-guide.future.sensi.link/images/channel/1be50627-1688-54a7-a314-dc256342c67a/logo.png" />
+    <url>http://www.whattowatch.com_uk</url>
+    <display-name lang="en">Sky Cinema Hits HD</display-name>
   </channel>
   <channel id="Sky.Valentine.uk">
     <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1811.png" />
     <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1811.png" />
     <url>http://www.sky.com</url>
     <display-name lang="en">Sky Valentine</display-name>
+  </channel>
+  <channel id="Movies24.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4420.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4420.png" />
+    <url>http://www.sky.com</url>
+    <display-name lang="en">Movies24</display-name>
+  </channel>
+  <channel id="5ACTION.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1036.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1036.png" />
+    <url>http://www.sky.com</url>
+    <display-name lang="en">5ACTION</display-name>
+  </channel>
+  <channel id="Sky.Thriller.HD.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4062.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4062.png" />
+    <url>http://www.sky.com</url>
+    <display-name lang="en">Sky Thriller HD</display-name>
   </channel>
   <channel id="Legend.Xtra.uk">
     <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3605.png" />
@@ -156,6 +124,24 @@
     <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4610.png" />
     <url>http://www.sky.com</url>
     <display-name lang="en">Legend Xtra</display-name>
+  </channel>
+  <channel id="SkyValentineHD.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4020.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4020.png" />
+    <url>http://www.sky.com</url>
+    <display-name lang="en">SkyValentineHD</display-name>
+  </channel>
+  <channel id="Sky.Adventure.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1808.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1808.png" />
+    <url>http://www.sky.com</url>
+    <display-name lang="en">Sky Adventure</display-name>
+  </channel>
+  <channel id="GREAT!.romance.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3643.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3643.png" />
+    <url>http://www.sky.com</url>
+    <display-name lang="en">GREAT! romance</display-name>
   </channel>
   <channel id="SkyPremiere+1.uk">
     <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1823.png" />
@@ -168,27 +154,41 @@
     <url>http://www.sky.com</url>
     <display-name lang="en">Film4+1</display-name>
   </channel>
-  <channel id="Movies24+.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4421.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4421.png" />
+  <channel id="Legend.Xtra+1.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4502.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4502.png" />
     <url>http://www.sky.com</url>
-    <display-name lang="en">Movies24+</display-name>
+    <display-name lang="en">Legend Xtra+1</display-name>
   </channel>
-  <channel id="Legend.uk">
+  <channel id="Sky.Action.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1001.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1001.png" />
     <url>http://www.sky.com</url>
-    <display-name lang="en">Legend</display-name>
+    <display-name lang="en">Sky Action</display-name>
   </channel>
-  <channel id="Sky.Thriller.HD.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4062.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4062.png" />
+  <channel id="SONY.MAX.2.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb5431.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb5431.png" />
     <url>http://www.sky.com</url>
-    <display-name lang="en">Sky Thriller HD</display-name>
+    <display-name lang="en">SONY MAX 2</display-name>
   </channel>
-  <channel id="Sky.Cinema.Hits.HD.uk">
-    <icon src="https://cdn.tv-guide.future.sensi.link/images/channel/1be50627-1688-54a7-a314-dc256342c67a/logo.png" />
-    <icon src="https://cdn.tv-guide.future.sensi.link/images/channel/1be50627-1688-54a7-a314-dc256342c67a/logo.png" />
-    <url>http://www.whattowatch.com_uk</url>
-    <display-name lang="en">Sky Cinema Hits HD</display-name>
+  <channel id="Sky.Greats.HD.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4015.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4015.png" />
+    <url>http://www.sky.com</url>
+    <display-name lang="en">Sky Greats HD</display-name>
+  </channel>
+  <channel id="Sky.Sci-Fi.HD.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4074.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4074.png" />
+    <url>http://www.sky.com</url>
+    <display-name lang="en">Sky Sci-Fi HD</display-name>
+  </channel>
+  <channel id="TalkingPictures.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb5252.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb5252.png" />
+    <url>http://www.sky.com</url>
+    <display-name lang="en">TalkingPictures</display-name>
   </channel>
   <programme channel="Sky.Valentine.uk" start="20260921013500 +0000" stop="20260921032500 +0000">
     <title lang="en">The Toxic Avenger</title>
@@ -20715,215 +20715,11 @@
     <category lang="en">Film</category>
     <icon src="https://tv.assets.pressassociation.io/6b8ba7f0-6808-5e4b-97e1-4845270f88e6.jpg" />
   </programme>
-  <channel id="HBO.Latino.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s24553_ll_h9_ab.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s24553_ll_h9_ab.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">HBO Latino HD</display-name>
-  </channel>
-  <channel id="FX.Movie.Channel.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s70253_ll_h15_aa.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s70253_ll_h15_aa.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">FX Movie Channel HD</display-name>
-  </channel>
-  <channel id="HBO2.(Pacific).us2">
-    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG0029BBSR.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG0029BBSR.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">HBO2 (Pacific)</display-name>
-  </channel>
-  <channel id="Starz.Encore.Westerns.(Pacific).us2">
-    <icon src="http://dtil.tmsimg.com/assets/s14765_ll_h15_ac.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s14765_ll_h15_ac.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Starz Encore Westerns (Pacific)</display-name>
-  </channel>
-  <channel id="AMC.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s59337_ll_h15_ab.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s59337_ll_h15_ab.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">AMC HD</display-name>
-  </channel>
-  <channel id="Cinemax.HD.(Pacific).us2">
-    <icon src="http://dtil.tmsimg.com/assets/s34933_ll_h15_ab.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s34933_ll_h15_ab.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Cinemax HD (Pacific)</display-name>
-  </channel>
-  <channel id="HBO.Comedy.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s59839_ll_h15_aa.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s59839_ll_h15_aa.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">HBO Comedy HD</display-name>
-  </channel>
-  <channel id="Starz.Edge.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s57573_ll_h15_ab.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s57573_ll_h15_ab.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Starz Edge HD</display-name>
-  </channel>
-  <channel id="HBO.Hits.us2">
-    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG0029BBSR.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG0029BBSR.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">HBO Hits</display-name>
-  </channel>
-  <channel id="Showtime.Showcase.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s61001_ll_h15_aa.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s61001_ll_h15_aa.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Showtime Showcase HD</display-name>
-  </channel>
-  <channel id="Showtime.Next.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s68342_ll_h15_aa.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s68342_ll_h15_aa.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Showtime Next HD</display-name>
-  </channel>
-  <channel id="Cinemax.Hits.us2">
-    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG0029CKD8.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG0029CKD8.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Cinemax Hits</display-name>
-  </channel>
-  <channel id="HBO2.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG0029BBSR.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG0029BBSR.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">HBO2 HD</display-name>
-  </channel>
-  <channel id="Family.Movie.Classics.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s122068_ll_h15_aa.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s122068_ll_h15_aa.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Family Movie Classics</display-name>
-  </channel>
-  <channel id="ActionMAX.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG0029BC3L.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG0029BC3L.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">ActionMAX HD</display-name>
-  </channel>
-  <channel id="Sony.Cine.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s109720_ll_h15_aa.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s109720_ll_h15_aa.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Sony Cine</display-name>
-  </channel>
-  <channel id="Starz.Encore.Family.SD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s102903_ll_h15_aa.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s102903_ll_h15_aa.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Starz Encore Family SD</display-name>
-  </channel>
-  <channel id="Cinemax.Classics.us2">
-    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG0029BBLL.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG0029BBLL.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Cinemax Classics</display-name>
-  </channel>
-  <channel id="Starz.Encore.Black.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s14870_ll_h15_ac.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s14870_ll_h15_ac.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Starz Encore Black</display-name>
-  </channel>
-  <channel id="Starz.Encore.(Pacific).us2">
-    <icon src="http://dtil.tmsimg.com/assets/s10178_ll_h15_ac.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s10178_ll_h15_ac.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Starz Encore (Pacific)</display-name>
-  </channel>
-  <channel id="MGM+.Drive-In.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s68409_ll_h15_ad.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s68409_ll_h15_ad.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">MGM+ Drive-In</display-name>
-  </channel>
-  <channel id="RetroPlex.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s65791_ll_h15_aa.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s65791_ll_h15_aa.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">RetroPlex HD</display-name>
-  </channel>
-  <channel id="HBO.Drama.us2">
-    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG0029BBV2.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG0029BBV2.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">HBO Drama</display-name>
-  </channel>
-  <channel id="Starz.in.Black.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s67235_ll_h15_ab.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s67235_ll_h15_ab.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Starz in Black HD</display-name>
-  </channel>
-  <channel id="HBO.Signature.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG0029BBV6.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG0029BBV6.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">HBO Signature HD</display-name>
-  </channel>
-  <channel id="HBO2.HD.(Pacific).us2">
-    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG0029BBSR.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG0029BBSR.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">HBO2 HD (Pacific)</display-name>
-  </channel>
-  <channel id="Starz.Comedy.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s57569_ll_h15_ac.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s57569_ll_h15_ac.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Starz Comedy HD</display-name>
-  </channel>
-  <channel id="MGM+.Hits.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s67929_ll_h15_ad.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s67929_ll_h15_ad.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">MGM+ Hits HD</display-name>
-  </channel>
-  <channel id="Showtime.Extreme.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s60947_ll_h15_aa.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s60947_ll_h15_aa.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Showtime Extreme HD</display-name>
-  </channel>
-  <channel id="Showtime.2.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s58533_ll_h15_ac.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s58533_ll_h15_ac.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Showtime 2 HD</display-name>
-  </channel>
-  <channel id="HBO.West.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s19548_ll_h15_aa.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s19548_ll_h15_aa.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">HBO West</display-name>
-  </channel>
-  <channel id="Cinemax.Action.us2">
-    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG0029BC1Q.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG0029BC1Q.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Cinemax Action</display-name>
-  </channel>
   <channel id="Starz.Cinema.HD.us2">
     <icon src="http://dtil.tmsimg.com/assets/s67236_ll_h15_ac.png?w=360&amp;h=270" />
     <icon src="http://dtil.tmsimg.com/assets/s67236_ll_h15_ac.png?w=360&amp;h=270" />
     <url>http://www.tmsapi.com</url>
     <display-name lang="en">Starz Cinema HD</display-name>
-  </channel>
-  <channel id="Cinemax.(Pacific).us2">
-    <icon src="http://dtil.tmsimg.com/assets/s10120_ll_h15_ab.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s10120_ll_h15_ab.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Cinemax (Pacific)</display-name>
-  </channel>
-  <channel id="Showtime.Women.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s68338_ll_h15_aa.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s68338_ll_h15_aa.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Showtime Women HD</display-name>
   </channel>
   <channel id="Starz.Encore.Action.HD.us2">
     <icon src="http://dtil.tmsimg.com/assets/s72015_ll_h15_aa.png?w=360&amp;h=270" />
@@ -20931,17 +20727,17 @@
     <url>http://www.tmsapi.com</url>
     <display-name lang="en">Starz Encore Action HD</display-name>
   </channel>
-  <channel id="HBO.East.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s19548_ll_h15_aa.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s19548_ll_h15_aa.png?w=360&amp;h=270" />
+  <channel id="HBO.(Pacific).us2">
+    <icon src="http://dtil.tmsimg.com/assets/s10240_ll_h15_aa.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s10240_ll_h15_aa.png?w=360&amp;h=270" />
     <url>http://www.tmsapi.com</url>
-    <display-name lang="en">HBO East</display-name>
+    <display-name lang="en">HBO (Pacific)</display-name>
   </channel>
-  <channel id="Starz.Encore.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s36225_ll_h15_ac.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s36225_ll_h15_ac.png?w=360&amp;h=270" />
+  <channel id="Cinemax.(Pacific).us2">
+    <icon src="http://dtil.tmsimg.com/assets/s10120_ll_h15_ab.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s10120_ll_h15_ab.png?w=360&amp;h=270" />
     <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Starz Encore HD</display-name>
+    <display-name lang="en">Cinemax (Pacific)</display-name>
   </channel>
   <channel id="5.StarMAX.HD.East.us2">
     <icon src="http://dtil.tmsimg.com/assets/GNLZZGG0029CS01.png?w=360&amp;h=270" />
@@ -20949,23 +20745,11 @@
     <url>http://www.tmsapi.com</url>
     <display-name lang="en">5 StarMAX HD East</display-name>
   </channel>
-  <channel id="The.Movie.Channel.Extra.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s60951_ll_h15_aa.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s60951_ll_h15_aa.png?w=360&amp;h=270" />
+  <channel id="HBO2.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG0029BBSR.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG0029BBSR.png?w=360&amp;h=270" />
     <url>http://www.tmsapi.com</url>
-    <display-name lang="en">The Movie Channel Extra HD</display-name>
-  </channel>
-  <channel id="HBO.(Pacific).us2">
-    <icon src="http://dtil.tmsimg.com/assets/s10240_ll_h15_aa.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s10240_ll_h15_aa.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">HBO (Pacific)</display-name>
-  </channel>
-  <channel id="Starz.Kids.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s57581_ll_h15_ab.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s57581_ll_h15_ab.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Starz Kids HD</display-name>
+    <display-name lang="en">HBO2 HD</display-name>
   </channel>
   <channel id="HBO.Movies.us2">
     <icon src="http://dtil.tmsimg.com/assets/GNLZZGG0029BBWP.png?w=360&amp;h=270" />
@@ -20973,29 +20757,17 @@
     <url>http://www.tmsapi.com</url>
     <display-name lang="en">HBO Movies</display-name>
   </channel>
-  <channel id="The.Movie.Channel.(Pacific).us2">
-    <icon src="http://dtil.tmsimg.com/assets/s11160_ll_h15_aa.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s11160_ll_h15_aa.png?w=360&amp;h=270" />
+  <channel id="ActionMAX.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG0029BC3L.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG0029BC3L.png?w=360&amp;h=270" />
     <url>http://www.tmsapi.com</url>
-    <display-name lang="en">The Movie Channel (Pacific)</display-name>
+    <display-name lang="en">ActionMAX HD</display-name>
   </channel>
-  <channel id="Starz.Encore.Classic.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s14764_ll_h15_ac.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s14764_ll_h15_ac.png?w=360&amp;h=270" />
+  <channel id="Cinemax.Hits.us2">
+    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG0029CKD8.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG0029CKD8.png?w=360&amp;h=270" />
     <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Starz Encore Classic</display-name>
-  </channel>
-  <channel id="HBO.Zone.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG0029BBXT.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG0029BBXT.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">HBO Zone HD</display-name>
-  </channel>
-  <channel id="Starz.Encore.Westerns.SD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s102906_ll_h15_ab.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s102906_ll_h15_ab.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Starz Encore Westerns SD</display-name>
+    <display-name lang="en">Cinemax Hits</display-name>
   </channel>
   <channel id="AMC+.us2">
     <icon src="http://dtil.tmsimg.com/assets/s114759_ll_h15_aa.png?w=360&amp;h=270" />
@@ -21003,47 +20775,23 @@
     <url>http://www.tmsapi.com</url>
     <display-name lang="en">AMC+</display-name>
   </channel>
-  <channel id="MGM+.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s65687_ll_h15_ag.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s65687_ll_h15_ag.png?w=360&amp;h=270" />
+  <channel id="MGM+.Drive-In.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s68409_ll_h15_ad.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s68409_ll_h15_ad.png?w=360&amp;h=270" />
     <url>http://www.tmsapi.com</url>
-    <display-name lang="en">MGM+ HD</display-name>
+    <display-name lang="en">MGM+ Drive-In</display-name>
   </channel>
-  <channel id="MoviePlex.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s15295_ll_h15_ac.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s15295_ll_h15_ac.png?w=360&amp;h=270" />
+  <channel id="Showtime.Next.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s68342_ll_h15_aa.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s68342_ll_h15_aa.png?w=360&amp;h=270" />
     <url>http://www.tmsapi.com</url>
-    <display-name lang="en">MoviePlex HD</display-name>
+    <display-name lang="en">Showtime Next HD</display-name>
   </channel>
-  <channel id="The.Movie.Channel.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s35329_ll_h15_aa.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s35329_ll_h15_aa.png?w=360&amp;h=270" />
+  <channel id="HBO.East.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s19548_ll_h15_aa.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s19548_ll_h15_aa.png?w=360&amp;h=270" />
     <url>http://www.tmsapi.com</url>
-    <display-name lang="en">The Movie Channel HD</display-name>
-  </channel>
-  <channel id="Showtime.Familyzone.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s25274_ll_h15_ac.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s25274_ll_h15_ac.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Showtime Familyzone HD</display-name>
-  </channel>
-  <channel id="The.Film.Detective.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s112484_ll_h15_aa.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s112484_ll_h15_aa.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">The Film Detective</display-name>
-  </channel>
-  <channel id="Starz.HD.(Pacific).us2">
-    <icon src="http://dtil.tmsimg.com/assets/s34941_ll_h15_ac.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s34941_ll_h15_ac.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Starz HD (Pacific)</display-name>
-  </channel>
-  <channel id="PixL.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s70113_ll_h15_aa.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s70113_ll_h15_aa.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">PixL</display-name>
+    <display-name lang="en">HBO East</display-name>
   </channel>
   <channel id="Sony.Movie.Channel.HD.us2">
     <icon src="http://dtil.tmsimg.com/assets/s69130_ll_h15_ab.png?w=360&amp;h=270" />
@@ -21051,11 +20799,227 @@
     <url>http://www.tmsapi.com</url>
     <display-name lang="en">Sony Movie Channel HD</display-name>
   </channel>
+  <channel id="HBO.Latino.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s24553_ll_h9_ab.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s24553_ll_h9_ab.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">HBO Latino HD</display-name>
+  </channel>
+  <channel id="The.Movie.Channel.Extra.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s60951_ll_h15_aa.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s60951_ll_h15_aa.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">The Movie Channel Extra HD</display-name>
+  </channel>
+  <channel id="Sony.Cine.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s109720_ll_h15_aa.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s109720_ll_h15_aa.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Sony Cine</display-name>
+  </channel>
+  <channel id="The.Movie.Channel.(Pacific).us2">
+    <icon src="http://dtil.tmsimg.com/assets/s11160_ll_h15_aa.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s11160_ll_h15_aa.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">The Movie Channel (Pacific)</display-name>
+  </channel>
+  <channel id="Starz.HD.(Pacific).us2">
+    <icon src="http://dtil.tmsimg.com/assets/s34941_ll_h15_ac.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s34941_ll_h15_ac.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Starz HD (Pacific)</display-name>
+  </channel>
+  <channel id="RetroPlex.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s65791_ll_h15_aa.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s65791_ll_h15_aa.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">RetroPlex HD</display-name>
+  </channel>
+  <channel id="Starz.Comedy.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s57569_ll_h15_ac.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s57569_ll_h15_ac.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Starz Comedy HD</display-name>
+  </channel>
+  <channel id="Starz.Encore.(Pacific).us2">
+    <icon src="http://dtil.tmsimg.com/assets/s10178_ll_h15_ac.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s10178_ll_h15_ac.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Starz Encore (Pacific)</display-name>
+  </channel>
+  <channel id="Cinemax.HD.(Pacific).us2">
+    <icon src="http://dtil.tmsimg.com/assets/s34933_ll_h15_ab.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s34933_ll_h15_ab.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Cinemax HD (Pacific)</display-name>
+  </channel>
+  <channel id="AMC.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s59337_ll_h15_ab.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s59337_ll_h15_ab.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">AMC HD</display-name>
+  </channel>
+  <channel id="PixL.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s70113_ll_h15_aa.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s70113_ll_h15_aa.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">PixL</display-name>
+  </channel>
+  <channel id="MGM+.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s65687_ll_h15_ag.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s65687_ll_h15_ag.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">MGM+ HD</display-name>
+  </channel>
+  <channel id="FX.Movie.Channel.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s70253_ll_h15_aa.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s70253_ll_h15_aa.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">FX Movie Channel HD</display-name>
+  </channel>
+  <channel id="Starz.in.Black.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s67235_ll_h15_ab.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s67235_ll_h15_ab.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Starz in Black HD</display-name>
+  </channel>
+  <channel id="Cinemax.Action.us2">
+    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG0029BC1Q.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG0029BC1Q.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Cinemax Action</display-name>
+  </channel>
+  <channel id="Cinemax.Classics.us2">
+    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG0029BBLL.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG0029BBLL.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Cinemax Classics</display-name>
+  </channel>
+  <channel id="Starz.Encore.Westerns.SD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s102906_ll_h15_ab.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s102906_ll_h15_ab.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Starz Encore Westerns SD</display-name>
+  </channel>
+  <channel id="HBO.Signature.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG0029BBV6.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG0029BBV6.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">HBO Signature HD</display-name>
+  </channel>
+  <channel id="Showtime.Extreme.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s60947_ll_h15_aa.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s60947_ll_h15_aa.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Showtime Extreme HD</display-name>
+  </channel>
+  <channel id="Starz.Encore.Westerns.(Pacific).us2">
+    <icon src="http://dtil.tmsimg.com/assets/s14765_ll_h15_ac.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s14765_ll_h15_ac.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Starz Encore Westerns (Pacific)</display-name>
+  </channel>
+  <channel id="Starz.Encore.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s36225_ll_h15_ac.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s36225_ll_h15_ac.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Starz Encore HD</display-name>
+  </channel>
+  <channel id="Showtime.2.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s58533_ll_h15_ac.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s58533_ll_h15_ac.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Showtime 2 HD</display-name>
+  </channel>
+  <channel id="MGM+.Hits.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s67929_ll_h15_ad.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s67929_ll_h15_ad.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">MGM+ Hits HD</display-name>
+  </channel>
+  <channel id="Starz.Encore.Classic.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s14764_ll_h15_ac.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s14764_ll_h15_ac.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Starz Encore Classic</display-name>
+  </channel>
+  <channel id="Starz.Kids.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s57581_ll_h15_ab.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s57581_ll_h15_ab.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Starz Kids HD</display-name>
+  </channel>
   <channel id="Starz.(Pacific).us2">
     <icon src="http://dtil.tmsimg.com/assets/s12719_ll_h15_ac.png?w=360&amp;h=270" />
     <icon src="http://dtil.tmsimg.com/assets/s12719_ll_h15_ac.png?w=360&amp;h=270" />
     <url>http://www.tmsapi.com</url>
     <display-name lang="en">Starz (Pacific)</display-name>
+  </channel>
+  <channel id="HBO.West.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s19548_ll_h15_aa.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s19548_ll_h15_aa.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">HBO West</display-name>
+  </channel>
+  <channel id="HBO.Drama.us2">
+    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG0029BBV2.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG0029BBV2.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">HBO Drama</display-name>
+  </channel>
+  <channel id="MoviePlex.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s15295_ll_h15_ac.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s15295_ll_h15_ac.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">MoviePlex HD</display-name>
+  </channel>
+  <channel id="Showtime.Showcase.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s61001_ll_h15_aa.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s61001_ll_h15_aa.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Showtime Showcase HD</display-name>
+  </channel>
+  <channel id="HBO.Hits.us2">
+    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG0029BBSR.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG0029BBSR.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">HBO Hits</display-name>
+  </channel>
+  <channel id="Starz.Edge.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s57573_ll_h15_ab.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s57573_ll_h15_ab.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Starz Edge HD</display-name>
+  </channel>
+  <channel id="Starz.Encore.Family.SD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s102903_ll_h15_aa.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s102903_ll_h15_aa.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Starz Encore Family SD</display-name>
+  </channel>
+  <channel id="The.Film.Detective.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s112484_ll_h15_aa.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s112484_ll_h15_aa.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">The Film Detective</display-name>
+  </channel>
+  <channel id="Showtime.Women.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s68338_ll_h15_aa.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s68338_ll_h15_aa.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Showtime Women HD</display-name>
+  </channel>
+  <channel id="HBO.Comedy.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s59839_ll_h15_aa.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s59839_ll_h15_aa.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">HBO Comedy HD</display-name>
+  </channel>
+  <channel id="Showtime.Familyzone.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s25274_ll_h15_ac.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s25274_ll_h15_ac.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Showtime Familyzone HD</display-name>
   </channel>
   <channel id="Cinemax.HD.us2">
     <icon src="http://dtil.tmsimg.com/assets/s34933_ll_h15_ab.png?w=360&amp;h=270" />
@@ -21063,17 +21027,53 @@
     <url>http://www.tmsapi.com</url>
     <display-name lang="en">Cinemax HD</display-name>
   </channel>
+  <channel id="Starz.Encore.Black.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s14870_ll_h15_ac.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s14870_ll_h15_ac.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Starz Encore Black</display-name>
+  </channel>
+  <channel id="The.Movie.Channel.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s35329_ll_h15_aa.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s35329_ll_h15_aa.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">The Movie Channel HD</display-name>
+  </channel>
+  <channel id="Family.Movie.Classics.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s122068_ll_h15_aa.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s122068_ll_h15_aa.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Family Movie Classics</display-name>
+  </channel>
   <channel id="Starz.HD.us2">
     <icon src="http://dtil.tmsimg.com/assets/s34941_ll_h15_ac.png?w=360&amp;h=270" />
     <icon src="http://dtil.tmsimg.com/assets/s34941_ll_h15_ac.png?w=360&amp;h=270" />
     <url>http://www.tmsapi.com</url>
     <display-name lang="en">Starz HD</display-name>
   </channel>
+  <channel id="HBO.Zone.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG0029BBXT.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG0029BBXT.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">HBO Zone HD</display-name>
+  </channel>
   <channel id="Turner.Classic.Movies.HD.us2">
     <icon src="http://dtil.tmsimg.com/assets/s64312_ll_h15_ab.png?w=360&amp;h=270" />
     <icon src="http://dtil.tmsimg.com/assets/s64312_ll_h15_ab.png?w=360&amp;h=270" />
     <url>http://www.tmsapi.com</url>
     <display-name lang="en">Turner Classic Movies HD</display-name>
+  </channel>
+  <channel id="HBO2.HD.(Pacific).us2">
+    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG0029BBSR.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG0029BBSR.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">HBO2 HD (Pacific)</display-name>
+  </channel>
+  <channel id="HBO2.(Pacific).us2">
+    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG0029BBSR.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG0029BBSR.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">HBO2 (Pacific)</display-name>
   </channel>
   <programme channel="The.Film.Detective.us2" start="20260921040000 +0000" stop="20260921060000 +0000">
     <title lang="en">They Made Me a Criminal</title>
